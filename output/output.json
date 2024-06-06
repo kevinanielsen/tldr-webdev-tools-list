@@ -1,0 +1,2450 @@
+[
+  {
+    "type": "WEBSITE",
+    "title": "MESOP",
+    "description": "Mesop is a Python-based UI platform used at Google to build internal UIs quickly for demos and other apps. It helps Python devs skip the frontend learning curve so that they can deploy their apps quickly.",
+    "url": "https://google.github.io/mesop/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "BLOCKNOTE",
+    "description": "BlockNote is a React Rich Text Editor that's block-based (Notion style) and extensible. It comes with features like animations, drag-and-drop blocks, a slash menu, a format menu, helpful placeholders, and real-time collaboration support.",
+    "url": "https://github.com/TypeCellOS/BlockNote?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "EXPERTS.JS",
+    "description": "Experts.js simplifies the creation and deployment of OpenAI's Assistants, allowing them to be linked together to form a Multi-AI Agent System with expanded memory. It uses OpenAI's Assistants API, which allows for larger context windows, more complex interactions, and better integrations with tools.",
+    "url": "https://github.com/metaskills/experts?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "BUILD REAL-TIME APPLICATIONS WITH YOUR SAP DATA",
+    "description": "Watch this online talk by Confluent and SAP [17] to learn how to:",
+    "url": "https://www.confluent.io/resources/online-talk/real-time-customer-experiences-sap-data-streaming/?utm_campaign=tm.partner_cd.tldr-newsletter&utm_source=tldr&utm_medium=paidsocial"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "YAMADA UI",
+    "description": "Yamada UI is a React UI component library with a range of components that can be easily combined to construct complex user interfaces. It has features like color modes, animations, and theme switching.",
+    "url": "https://github.com/yamada-ui/yamada-ui?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "LUDIC",
+    "description": "Ludic is a lightweight framework for building HTML pages with a component approach similar to React. It is built to be used together with HTMX so that developers can write minimal JavaScript to create dynamic web services.",
+    "url": "https://getludic.dev/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TLBROWSE",
+    "description": "tlbrowse is an infinite canvas for an imagined web. You can create web pages by entering URLs and clicking on links creates new pages.",
+    "url": "https://github.com/SawyerHood/tlbrowse?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "\ud83d\ude18 KISS BUGS GOODBYE",
+    "description": "QA Wolf [10] gets web apps to 80% automated end-to-end test coverage in just 4 months \u2014 and it requires zero effort (your team will thank you).",
+    "url": "https://www.qawolf.com/?utm_campaign=KissBugsGoodbye06042024&utm_source=tldrwebdev&utm_medium=newsletter"
+  },
+  {
+    "type": "4 MINUTE READ",
+    "title": "NEW TO THE WEB PLATFORM IN MAY",
+    "description": "Several new features were added to web browsers in May 2024, including CSS anchor positioning and stepped value functions in Chrome 125, the Screen Wake Lock API in Firefox 126, and the Compute Pressure API in Chrome 125.",
+    "url": "https://web.dev/blog/web-platform-05-2024?hl=en&utm_source=tldrwebdev"
+  },
+  {
+    "type": "7 MINUTE READ",
+    "title": "ANNOUNCING BRIOCHE!",
+    "description": "Brioche is a new package manager and build tool inspired by Nix, Homebrew, and Cargo. It is a flexible and easy-to-use tool for managing software projects across different platforms and languages.",
+    "url": "https://brioche.dev/blog/announcing-brioche/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "QSTUDIO 3.0",
+    "description": "QStudio 3.0 is an SQL editor that supports DuckDB as a local database. It has a Parquet file viewer and can convert a query result from any database to store it locally.",
+    "url": "https://www.timestored.com/qstudio/release-version-3?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TWINNY",
+    "description": "Twinny is a free private AI extension for VS Code. It comes with fill-in-the-middle code completion, AI chat, customizable prompt templates, and more. Twinny supports both API endpoints and local LLMs.",
+    "url": "https://github.com/rjmacarthy/twinny?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MESH SPREADSHEET",
+    "description": "Mesh is a data and code editor that feels like a spreadsheet.",
+    "url": "https://github.com/chrispsn/mesh-spreadsheet?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SANDBOX",
+    "description": "Sandbox is an open-source cloud-based code editing environment with custom AI code autocompletion and real-time collaboration.",
+    "url": "https://github.com/ishaan1013/sandbox?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "7 ESSENTIAL APPS FOR MONDAY.COM",
+    "description": "On monday.com [17]? If you're not using the app marketplace, you're seriously missing out. Check out this handy guide [16] to learn how to overcome app resistance [16] and tailor the monday.com [17] experience. Featured apps include time tracking, custom automation and workflows, estimations, and more. Read the full article on the Appfire blog [16]",
+    "url": "https://appfire.com/resources/blog/maximizing-the-potential-of-monday-com-with-marketplace-apps?utm_source=tldr&utm_medium=email&utm_campaign=mex&utm_id=701Nv000007VsuXIAS&utm_ct=ema&utm_cc=rtg&utm_pla=monday&utm_sol=stl&utm_d=Q224&utm_g=gl&utm_lan=en&utm_content=secondary"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SVG GOBBLER",
+    "description": "SVG Gobbler is an open-source browser extension that finds SVG content in the current tab and lets users optimize, download, copy, edit, or export it.",
+    "url": "https://github.com/rossmoody/svg-gobbler?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT PDF",
+    "description": "React PDF provides a way to display PDFs in your React app as easily as if they were images.",
+    "url": "https://github.com/wojtekmaj/react-pdf?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MITOSIS",
+    "description": "Mitosis allows developers to maintain a consistent design system across all frameworks. It allows developers to build components in a single codebase and compile them to React, Vue, Angular, Svelte, Solid, Alpine, Qwik, and more.",
+    "url": "https://github.com/BuilderIO/mitosis?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "KOHEESIO",
+    "description": "Koheesio is a Python framework for building efficient data pipelines. It allows developers to create complex pipelines from simple, reusable components. Koheesio supports strong typing, data validation, structured configurations, and more.",
+    "url": "https://github.com/Nike-Inc/koheesio?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "SUPERFILE",
+    "description": "Superfile is a customizable terminal file manager. It has a multiple panel view to see multiple directories at the same time and has customizable themes.",
+    "url": "https://superfile.netlify.app/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SERVERLESS POSTGRES",
+    "description": "An MVP of serverless Postgres using Oriole, Fly Machines, and Tigris for S3 Storage.",
+    "url": "https://github.com/kiwicopple/serverless-postgres?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "OPENKODA",
+    "description": "OpenKoda is a development platform that makes it easier to build business apps and internal tools. It comes with pre-built functionalities and out-of-the-box features. OpenKoda supports common technologies like Java, Spring Boot, JavaScript, Postgres, and HTML.",
+    "url": "https://github.com/openkoda/openkoda?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "RAGAPP",
+    "description": "RAGapp is a way to use RAG in your own apps. Its configuration is similar to OpenAI's custom GPTs, but it's deployable in your own cloud infrastructure using Docker and whatever LLM you prefer.",
+    "url": "https://github.com/ragapp/ragapp?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "NESTJS BOILERPLATE",
+    "description": "This is a NestJS boilerplate that supports social sign-in, any database, file uploads, admin and user roles, Docker, CI, and more.",
+    "url": "https://github.com/brocoders/nestjs-boilerplate?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TANTIVY",
+    "description": "Tantivy is a full-text search engine library that has a configurable tokenizer, tiny startup time, and supports a range of queries, like natural query language.",
+    "url": "https://github.com/quickwit-oss/tantivy?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "COPILOTKIT",
+    "description": "CopilotKit is a group of React components that helps integrate AI features into your app. It has components for app-aware AI chatbots, text areas for AI-assisted text generation, and more.",
+    "url": "https://github.com/CopilotKit/CopilotKit?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "ARK UI",
+    "description": "Ark UI is a headless, open-source UI library with over 30+ components designed for building reusable, scalable Design Systems. It supports many JavaScript frameworks (React, Solid, and Vue) with dedicated packages for each supported framework.",
+    "url": "https://github.com/chakra-ui/ark?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DATAHERALD",
+    "description": "Dataherald is a natural language-to-SQL engine built for question answering over relational data. It allows you to set up an API from your database that can answer questions in plain English.",
+    "url": "https://github.com/Dataherald/dataherald?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LO",
+    "description": "LO is a simple programming language that targets WASM. It's easy to use and modify and it has very few dependencies.",
+    "url": "https://github.com/glebbash/LO?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "COVER AGENT",
+    "description": "The CodiumAI Cover Agent increases code coverage by automatically generating qualified tests for existing test suites. It uses the OpenAI API.",
+    "url": "https://github.com/Codium-ai/cover-agent?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "NAMVIEK",
+    "description": "Namviek is an open-source project manager for small teams. It has different customizable views, like calendar, goal, and list views.",
+    "url": "https://github.com/hudy9x/namviek?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "MATCHA.CSS",
+    "description": "matcha.css is a pure CSS library designed to style HTML elements similarly to a default browser stylesheet. It's ideal for fast prototyping, static HTML pages, and Markdown-generated documents.",
+    "url": "https://links.tldrnewsletter.com/hc8JZZ"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "NEOSYNC",
+    "description": "Neosync is an open-source way to anonymize PII, generate synthetic data, and sync environments for a better developer experience. Developers can safely test code against production data, reproduce prod bugs locally, and fix broken staging environments.",
+    "url": "https://github.com/nucleuscloud/neosync?utm_source=tldrwebdev"
+  },
+  {
+    "type": "2 MINUTE READ",
+    "title": "LEGEND-STATE 3.0 ALPHA",
+    "description": "Legend-State is a state library for JavaScript and React/React Native applications. 3.0 Alpha now has an offline-first, error-resilient sync system. It comes with new persistence and sync plugins for Supabase and TanStack Query.",
+    "url": "https://threadreaderapp.com/thread/1793353125820248487.html?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "JIRA.JS",
+    "description": "Jira.js is a Node and browser module that allows developers to interact with the Jira Cloud API, Jira Agile Cloud API, and Jira ServiceDesk Cloud API.",
+    "url": "https://github.com/MrRefactoring/jira.js?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "OPENPANEL",
+    "description": "Openpanel is an analytics tool for logging events on the web, mobile, and backend. It allows developers to visualize their data, create dashboards, access all events and visitors, and self-host the application.",
+    "url": "https://github.com/Openpanel-dev/openpanel?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DESKPAD",
+    "description": "DeskPad is a virtual monitor application for Mac that creates a mirrored display within its window, making for easier screen sharing and providing a dedicated workspace for users.",
+    "url": "https://github.com/Stengo/DeskPad?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "PLS FIX",
+    "description": "pls fix is a marketplace that connects verified Big Tech employees with people looking for help to unlock their accounts that may have gotten banned or locked unfairly.",
+    "url": "https://plsfix.co/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "\ud83d\udc4b GOODBYE LOW TEST COVERAGE AND SLOW QA CYCLES",
+    "description": "Bugs sneak out when less than 80% of user flows are tested before shipping. But getting that kind of coverage \u2014 and staying there \u2014 is hard and pricey for any sized team.",
+    "url": "https://www.qawolf.com/lp/tldr?utm_campaign=GoodbyeLowSlow05202024&utm_source=tldr&utm_medium=newsletter"
+  },
+  {
+    "type": "15 MINUTE READ",
+    "title": "INTRODUCING COPILOT+ PCS",
+    "description": "Microsoft has introduced Copilot+ PCs, a new category of Windows PCs designed for AI with enhanced processors and new AI features like Recall, Cocreator, and Live Captions.",
+    "url": "https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "VSCODE CSS COMPATIBILITY",
+    "description": "This is a VSCode extension for checking which CSS syntax, keywords, types or functions are compatible or supported for browsers and their versions.",
+    "url": "https://github.com/vivek9patel/vscode-css-compatibility?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "VERNIER",
+    "description": "Vernier is a next-generation Ruby 3.2.1+ sampling profiler. It tracks multiple threads, GVL activity, GC pauses, idle time, and more.",
+    "url": "https://github.com/jhawthorn/vernier?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "\ud83c\udd95 INTRODUCING THE NEW NEXT.JS RUNTIME ON NETLIFY",
+    "description": "Got a Next.js project in the works? Check out Netlify's recent launch of Next.js Runtime v5 [11]\u2014focused on improving site reliability, performance, and ease of maintenance. Developers now have access to powerful features [11] such as App Router, automatic fine-grained caching, on-demand + time-based revalidation, and more.",
+    "url": "https://www.netlify.com/with/nextjs/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "BEND",
+    "description": "Bend is a massively parallel, high-level programming language. It has the feeling and features of Python while also having the speed and parallelization capabilities of lower-level languages.",
+    "url": "https://github.com/HigherOrderCO/Bend?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LIGHTWEIGHT CHARTS",
+    "description": "Lightweight Charts is an easy way to display interactive charts online with HTML5. It keeps web page loading speeds low and the size of the library is close to static images.",
+    "url": "https://github.com/tradingview/lightweight-charts?utm_source=tldrwebdev"
+  },
+  {
+    "type": "7 MINUTE READ",
+    "title": "MERGING REMIX AND REACT ROUTER",
+    "description": "Remix and React Router are converging, with Remix's features being integrated into React Router v7 to streamline the upgrade process for users.",
+    "url": "https://remix.run/blog/merging-remix-and-react-router?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "JIRA AUTOMATION LIMITS \u2014 AND HOW TO GET AROUND THEM",
+    "description": "Atlassian is imposing stricter usage limit on Jira Cloud's built-in automation features. How do these limits work? And can you do to keep automating your critical workflows? \u2192 Learn how to avoid hitting limits (blog) [10].",
+    "url": "https://appfire.com/resources/blog/jira-automation-limits-and-how-to-get-around-them?utm_source=tldr&utm_medium=email&utm_campaign=com&utm_id=701Nv000007iD0jIAE&utm_ct=ema&utm_cc=rtg&utm_pla=atlassian&utm_sol=wa&utm_d=Q224&utm_g=gl&utm_lan=en"
+  },
+  {
+    "type": "1 MINUTE READ",
+    "title": "ANNOUNCING THE WEB PLATFORM DASHBOARD",
+    "description": "Google's Web Platform Dashboard is a tool for visualizing web platform features and browser support.",
+    "url": "https://web.dev/blog/web-platform-dashboard?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "BETTER SSE",
+    "description": "Server-sent events\u00a0is\u00a0a protocol that allows web servers to push data to clients without the need for alternative mechanisms such as pinging, long-polling, or WebSockets. Better SSE is a dependency-less server-sent events implementation for Node, written in TypeScript.",
+    "url": "https://github.com/MatthewWid/better-sse?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "GLANCE",
+    "description": "Glance is a self-hosted dashboard that puts all your feeds in one place, such as RSS feeds, subreddit posts, weather, bookmarks, stocks, YouTube videos, GitHub releases, and more.",
+    "url": "https://github.com/glanceapp/glance?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "QUARY",
+    "description": "Quary is an open-source business intelligence tool for engineers. Engineers can use it to connect to their database, write SQL queries, create charts/dashboards/reports, and more.",
+    "url": "https://github.com/quarylabs/quary?utm_source=tldrwebdev"
+  },
+  {
+    "type": "11 MINUTE READ",
+    "title": "WHAT'S NEW FOR DEVELOPERS AT GOOGLE I/O 2024",
+    "description": "Google introduced upgraded versions of its Gemini AI model, including a public preview of Gemini 1.5 Pro with a 2 million token context window at I/O 2024. For Android developers, the company highlighted Gemini Nano, an on-device AI model for faster local processing. Flutter and Dart also received updates, with Flutter now supporting compilation to WebAssembly and Dart introducing the initial stages of macros.",
+    "url": "https://9to5google.com/2024/05/14/google-io-2024-developer-recap/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "GEMINI FLASH",
+    "description": "Gemini Flash is a new lightweight model from Google that features multimodal reasoning and a long context window of up to one million tokens.",
+    "url": "https://deepmind.google/technologies/gemini/flash/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "SOCKET SECURITY",
+    "description": "Socket Security protects applications from hidden malware in open source code. It goes beyond traditional scanners to find new threats and integrates with GitHub for developer fixes.",
+    "url": "https://github.com/apps/socket-security?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "\ud83c\udd95 SUPABASE + SENTRY",
+    "description": "If you're building on Supabase, the new Sentry integration [9] is a powerful way to find slow queries and errors in your database. Join Thorsten from Supabase and Lazar from Sentry for a live developer workshop [9], where they'll demo the integration on a Next.js project. Sign up for the session this Thursday! [9]",
+    "url": "https://sentry.io/resources/supabase-sentry-workshop/?utm_source=tldr-webdev&utm_campaign=20240514"
+  },
+  {
+    "type": "8 MINUTE READ",
+    "title": "HELLO GPT-4O",
+    "description": "OpenAI has released GPT-4o, an AI model that can reason across audio, vision, and text in real time. Developers can access the GPT-4o API as a text and vision model. It's 2x faster, half the price, and has 5x higher rate limits compared to GPT-4 Turbo.",
+    "url": "https://bit.ly/4aiveK0"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "GRAPHQL-REQUEST",
+    "description": "Graphql-request is a minimal GraphQL client that supports both Node and browsers for scripts and simple apps. It has a Promise-based API and first-class TypeScript support.",
+    "url": "https://github.com/jasonkuhrt/graphql-request?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PINTORA",
+    "description": "Pintora is an extensible JavaScript text-to-diagrams library that works in both browsers and Node.js.",
+    "url": "https://github.com/hikerpig/pintora?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "HEADLESS UI V2.0",
+    "description": "Headless UI is a collection of unstyled UI components for React and Vue that integrate easily with Tailwind CSS. Headless UI v2.0 introduces new features like built-in anchor positioning, a checkbox component, and improved accessibility for faster UI development.",
+    "url": "https://headlessui.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "OMNICLIP",
+    "description": "Omniclip is an open-source video-editing application for the web browser. All videos edited using Omniclip are stored and edited locally. It features trimming, splitting, rendering, and adding text, audio, video, and images.",
+    "url": "https://github.com/aegir-assembly/omni-clip?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "JAM.DEV",
+    "description": "Jam is a browser extension that allows you to create a bug report on a web page with one click. Upon clicking, the extension will capture an instant replay of the bug happening on your web app and include all of the developer logs.",
+    "url": "https://jam.dev/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "CODEHELIUM",
+    "description": "CodeHelium is a React editor component that compiles, executes, and returns the outputs of any user-written Python code using WebAssembly.",
+    "url": "https://github.com/dillondesilva/codehelium?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TINY WORLD MAP",
+    "description": "tinyworldmap is a lightweight map library for web apps that need to function offline or on low-bandwidth connections. It integrates with Leaflet and offers customization options like city labels and borders.",
+    "url": "https://github.com/tinyworldmap/tiny-world-map?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "RX",
+    "description": "Rx is a command-line tool that makes it easy to create, use, and share development environments. It integrates with whatever tools you're currently using and gives you a long-running VM in the cloud that is kept in sync with your local machine.",
+    "url": "https://github.com/run-rx/rx?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SEMANTIC CACHE",
+    "description": "Semantic Cache is a tool for caching natural text based on semantic similarity. It's ideal for any task that involves querying or retrieving information based on meaning, such as natural language classification or caching AI responses. For example, two pieces of text can be similar but not identical (e.g., \"great places to check out in Spain\" vs. \"best places to visit in Spain\"). Traditional caching doesn't recognize this semantic similarity and misses opportunities for reuse.",
+    "url": "https://github.com/upstash/semantic-cache?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LLAMA3.JS",
+    "description": "A JavaScript implementation of Llama 3 using node-mlx, code modified from mlx-examples.",
+    "url": "https://github.com/frost-beta/llama3.js?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DRAWDB",
+    "description": "DrawDB is a database entity-relationship editor in the browser. Developers can use it to build diagrams, export SQL scripts, and more.",
+    "url": "https://github.com/drawdb-io/drawdb?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "JSONATA",
+    "description": "JSONata is a JSON query and transformation language. It lets you select one or multiple matching nodes with simple queries. It also provides helper functions, such as arithmetic, comparisons, sorting, grouping, datetime manipulation, and aggregation for more complex JSON querying and transformation.",
+    "url": "https://jsonata.org/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "EFFECT",
+    "description": "Effect is a TypeScript framework that provides a full-fledged functional effect system with a comprehensive standard library. It contains multiple effects that deal with SQL schemas, RPCs, and more.",
+    "url": "https://github.com/Effect-TS/effect?utm_source=tldrwebdev"
+  },
+  {
+    "type": "4 MINUTE READ",
+    "title": "GITHUB COPILOT WORKSPACE",
+    "description": "GitHub Copilot Workspace assists developers throughout the entire software development process, from brainstorming a project plan to writing and testing code, using natural language.",
+    "url": "https://github.blog/2024-04-29-github-copilot-workspace/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "STIRLING-PDF",
+    "description": "Stirling-PDF offers PDF manipulation features (splitting, merging, converting, etc.) within a locally hosted web environment.",
+    "url": "https://github.com/Stirling-Tools/Stirling-PDF?utm_source=tldrwebdev"
+  },
+  {
+    "type": "7 MINUTE READ",
+    "title": "I'M WRITING A NEW VECTOR SEARCH SQLITE EXTENSION",
+    "description": "SQLite-vec is a pure C SQLite extension that provides vector search capabilities directly within SQLite databases. It offers custom SQL functions and virtual tables for fast vector search and vector manipulation.",
+    "url": "https://links.tldrnewsletter.com/PGoBiv"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "FILEKITTY",
+    "description": "FileKitty lets you select multiple files from a directory and merge them into a single file. This is ideal for combining files before using them in a single format or for easily pasting file contents into an LLM to provide context.",
+    "url": "https://github.com/banagale/FileKitty?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MORPHIC",
+    "description": "Morphic is an open-source AI-powered search engine with a generative UI.",
+    "url": "https://github.com/miurla/morphic?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DOKPLOY",
+    "description": "Dokploy is a free self-hostable platform that makes application/database deployment and management easier. It can deploy any type of application (Python, Go, Node.js, etc) along with all major databases. Dokploy comes with real-time monitoring, docker management, and Traefik integration for routing and load balancing.",
+    "url": "https://github.com/Dokploy/dokploy?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PERPLEXICA",
+    "description": "Perplexica is an AI-powered search engine that searches the web and understands your questions. It uses machine learning algorithms like similarity searching and embeddings to refine results and cite sources.",
+    "url": "https://github.com/ItzCrazyKns/Perplexica?utm_source=tldrwebdev"
+  },
+  {
+    "type": "3 MINUTE READ",
+    "title": "SVELTE 5 RELEASE CANDIDATE",
+    "description": "Svelte 5 is now in the Release Candidate stage, which means the design of the framework is mostly set. There will probably be no breaking changes, which means developers can now try it out without worries about future changes breaking their project.",
+    "url": "https://svelte.dev/blog/svelte-5-release-candidate?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "EXTENSION.JS",
+    "description": "Extension.js is an easy way to create cross-browser web extensions without any build configuration. It's plug-and-play and has built-in support for TypeScript, WebAssembly, React, and modern JavaScript.",
+    "url": "https://github.com/cezaraugusto/extension.js?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "PYINFRA",
+    "description": "Pyinfra automates infrastructure using Python with features for ad-hoc command execution, service deployment, configuration management, and more.",
+    "url": "https://pyinfra.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "THRELTE",
+    "description": "Threlte is a 3D framework for the web. It combines the simplicity of Svelte and the power of Three.js to allow devs to quickly create 3D apps online.",
+    "url": "https://links.tldrnewsletter.com/YKwrmd"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "NETPROBLE LITE",
+    "description": "A simple tool written in Python for measuring Internet performance at home. It measures several performance metrics such as packet loss, latency, jitter, and DNS performance. It also aggregates these metrics into a common score, which you can use to monitor the overall health of your internet connection.",
+    "url": "https://links.tldrnewsletter.com/1Fm8Aj"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "PYSHEETS",
+    "description": "PySheets provides a spreadsheet UI for Python in the browser. Users can load any Python package and JS module and perform exploratory data science, use Pandas, create charts with matplotlib, import Excel sheets, analyze data, and create reports.",
+    "url": "https://pysheets.app/"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TEABLE",
+    "description": "Teable is a no-code database built on Postgres. It uses a simple, spreadsheet-like interface to create enterprise-level database applications.",
+    "url": "https://github.com/teableio/teable?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "COHERE TOOLKIT",
+    "description": "A collection of prebuilt components allowing developers to quickly build and deploy RAG applications.",
+    "url": "https://github.com/cohere-ai/cohere-toolkit?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PLASMIC",
+    "description": "Plasmic is an open-source visual builder for your codebase. It allows teams to design and build websites fast, with or without code. Its main use cases are for content management and web applications, allowing both devs and non-devs to make edits to a website in a clean manner.",
+    "url": "https://links.tldr.tech/SetqwE"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MUI X",
+    "description": "MUI X is a collection of advanced React UI components for complex use cases. It includes data grids, date and time pickers, charts, and a tree view component. It can be integrated natively with Material UI or extended by your own design system.",
+    "url": "https://links.tldr.tech/kDITis"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MS-DOS V1.25, V2.0, V4.0 SOURCE CODE",
+    "description": "Microsoft has open-sourced the original source code for MS-DOS v1.25, v2.0, and v4.0.",
+    "url": "https://links.tldr.tech/5IikLf"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "LANGCSS",
+    "description": "LangCSS is an AI assistant specifically trained on Tailwind CSS to help you generate forms, buttons, and other web elements easily. You can chat with it to describe your ideas and the AI assistant will generate code in real time.",
+    "url": "https://links.tldr.tech/ixezLU"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PRAGMATIC DRAG AND DROP",
+    "description": "This is Atlassian's open-sourced drag-and-drop toolchain. It can be used with any view layer, such as React, Svelte, and Angular, and currently powers products like Trello, Jira, and Confluence.",
+    "url": "https://links.tldr.tech/Q3wMJ2"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TWINNY",
+    "description": "Twinny is a completely free AI code completion plugin for VS Code. It uses local or API-hosted LLMs to power its code completion and is compatible with multiple tools and frameworks, like Ollama and LM Studio.",
+    "url": "https://links.tldr.tech/h1O8pC"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "VUE-I18N-NEXT",
+    "description": "An internationalization plugin for Vue.js.",
+    "url": "https://links.tldr.tech/N08Zam"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "CORENET",
+    "description": "Apple CoreNet is a deep neural network toolkit that allows researchers and engineers to train standard and novel small and large-scale models for a variety of tasks, like object classification, object detection, and semantic segmentation.",
+    "url": "https://links.tldr.tech/LZW4nG"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "FRANKEN/UI",
+    "description": "Franken UI is a collection of copy-pastable components that are HTML-first and framework agnostic.",
+    "url": "https://links.tldr.tech/owtHIk"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "FIRECRAWL",
+    "description": "Crawl and convert any website into LLM-ready Markdown. It can be self-hosted and comes with Python and Node SDKs.",
+    "url": "https://links.tldr.tech/dNtxEp"
+  },
+  {
+    "type": "5 MINUTE READ",
+    "title": "QUILL 2.0",
+    "description": "Quill is a rich text editor that has official TypeScript support, support for multiple editors on the same page with different configurations, auto-scrolling container detection, a smoother editing experience, and more.",
+    "url": "https://links.tldr.tech/I8rFFW"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SHADCN TABLE",
+    "description": "A copyable table component with server-side sorting, filtering, and pagination. It supports key features that are seen in popular applications like Notion and Linear.",
+    "url": "https://links.tldr.tech/TM3JO6"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "LLAMA 3",
+    "description": "Meta has released Llama 3, an open-source LLM. It performs better on many benchmarks - its various-sized models have similar or better performance compared to Google's, Anthropic's, and Mistral's models.",
+    "url": "https://links.tldr.tech/mBrntA"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "RIPL",
+    "description": "Ripl is a library that simplifies 2D graphics rendering in web browsers by providing a unified API for both canvas and SVG elements. It focuses on high performance and interactive data visualization.",
+    "url": "https://links.tldr.tech/f1FN84"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT QUERY BUILDER",
+    "description": "React Query Builder is a fully customizable query builder component for React. It has a collection of utility functions for importing from - and exporting to - various query languages, like SQL and MongoDB.",
+    "url": "https://github.com/react-querybuilder/react-querybuilder?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "AWESOME LOW-LEVEL DESIGN",
+    "description": "Low-level design resources to improve your design skills and prepare for interviews.",
+    "url": "https://github.com/ashishps1/awesome-low-level-design?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PAPER CODE",
+    "description": "Paper Code is a fast and performant C++ IDE.",
+    "url": "https://github.com/shahfarhadreza/papercode?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "READER",
+    "description": "Reader converts any URL to an LLM-friendly input.",
+    "url": "https://github.com/jina-ai/reader?utm_source=tldrwebdev"
+  },
+  {
+    "type": "5 MINUTE READ",
+    "title": "MIKROORM 6.2",
+    "description": "MikroORM is a TypeScript data-mapper ORM. Recently released MikroORM v6.2 introduces support for Microsoft SQL Server and libSQL, along with better handling of collection updates and pagination.",
+    "url": "https://mikro-orm.io/blog/mikro-orm-6-2-released?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SEMANTIC AUTOCOMPLETE",
+    "description": "Semantic Autocomplete is a performant React component that extends Material UI's autocomplete component with a local, quantized ML model. The model is used to perform similarity search and helps match by meaning, not just letters. The component is full-featured and doesn't require any extending.",
+    "url": "https://github.com/Mihaiii/semantic-autocomplete?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MORPHIC",
+    "description": "An AI-powered answer engine with a generative UI.",
+    "url": "https://github.com/miurla/morphic?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "MARKDOWNDOWN",
+    "description": "Convert any webpage to Markdown with images included.",
+    "url": "https://markdowndown.vercel.app/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "6 MINUTE READ",
+    "title": "NEXT.JS 14.2",
+    "description": "Next.js 14.2 offers faster local development with Turbopack improvements, along with clearer error messages and improved overlay design. It also has less memory usage during builds.",
+    "url": "https://nextjs.org/blog/next-14-2?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "ZERO SHEETS",
+    "description": "Turn Google Sheets into a database. Developers can perform CRUD operations on spreadsheets using APIs.",
+    "url": "https://www.zerosheets.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "INDEX ADVISOR",
+    "description": "Supabase's Index Advisor is a PostgreSQL extension that recommends indexes to improve query performance.",
+    "url": "https://github.com/supabase/index_advisor?utm_source=tldrwebdev"
+  },
+  {
+    "type": "7 MINUTE READ",
+    "title": "NEW FLOW LANGUAGE FEATURES FOR REACT",
+    "description": "Flow, a type checker for JavaScript, now offers dedicated syntax for React components and hooks to improve the developer experience. It now replaces traditional React function syntax with component syntax and enforces React best practices, like making props read-only. It also supports hooks and their corresponding rules.",
+    "url": "https://medium.com/flow-type/announcing-component-syntax-b6c5285660d0?utm_source=tldrwebdev"
+  },
+  {
+    "type": "7 MINUTE READ",
+    "title": "MADGE",
+    "description": "Madge is a development tool that helps visualize and manage module dependencies for JavaScript and CSS projects. It supports several module types and CSS preprocessors. Madge can detect circular dependencies and create visual graphs of project structures. The tool is useful for developers looking to optimize their codebase and maintain clear dependencies.",
+    "url": "https://github.com/pahen/madge?utm_source=tldrwebdev"
+  },
+  {
+    "type": "8 MINUTE READ",
+    "title": "CODEGEMMA",
+    "description": "CodeGemma, a collaborative effort between Google and Hugging Face, is a family of open-access, code-specialized LLMs. The models are available in 2B and 7B configurations. They have been fine-tuned with a lot of data to bring better performance in logical reasoning and programming suggestions.",
+    "url": "https://huggingface.co/blog/codegemma?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "AIDER",
+    "description": "Aider is a command-line tool that lets you directly edit code in your files while pair-programming with GPT. It will git commit changes with AI-generated commit messages.",
+    "url": "https://github.com/paul-gauthier/aider?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "DECO",
+    "description": "Deco is a real-time TypeScript web editor. You can code directly on the web or on your machine and get instant feedback.",
+    "url": "https://deco.cx/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "GEMINI CODE ASSIST",
+    "description": "Gemini Code Assist offers AI-powered assistance to software engineers in their IDE, similar to GitHub Copilot. It is available to try at no cost until July 11.",
+    "url": "https://cloud.google.com/gemini/docs/codeassist/overview?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "CHRONON",
+    "description": "Airbnb has open-sourced Chronon, which is an open-source end-to-end feature platform that allows machine learning teams to easily build, deploy, manage, and monitor data pipelines for machine learning. It\u2019s currently used by Airbnb and Stripe for major use cases internally.",
+    "url": "https://www.chronon.ai/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DRAWDB",
+    "description": "DrawDB is a database entity relationship editor right in the browser. It can be used to build diagrams with a few clicks, export SQL scripts, and more.",
+    "url": "https://github.com/drawdb-io/drawdb?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "\u270b STOP RELEASING BUGS",
+    "description": "Bugs sneak out when less than 80% of user flows [9] are tested before shipping. But how do you get that kind of coverage? You either spend years scaling in-house QA \u2014 or you get there in just 4 months with QA Wolf [9]:",
+    "url": "https://www.qawolf.com/?utm_source=tldr-webdev&utm_campaign=20240405"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SHOREBIRD",
+    "description": "Shorebird is code push for Flutter. It also includes other tools in Dart, such as libraries for verifying JWTs and interacting with Redis.",
+    "url": "https://github.com/shorebirdtech/shorebird?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "C++ INSIGHTS",
+    "description": "C++ Insights is a tool that makes the \u201cbehind-the-scenes\u201d of C++ compilation visible to the developer.",
+    "url": "https://github.com/andreasfertig/cppinsights?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "AUTOMQ",
+    "description": "AutoMQ is a cloud-native implementation for Apache Kafka. It\u2019s serverless, works with any cloud provider, and can cut your cloud infrastructure bill by up to 90%.",
+    "url": "https://github.com/AutoMQ/automq?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "CLANGQL",
+    "description": "ClangQL is a tool that allows you to run SQL-like queries on C/C++ Code instead of database files using the GitQL SDK.",
+    "url": "https://github.com/AmrDeveloper/ClangQL?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PGMOCK",
+    "description": "pgmock is an in-memory PostgreSQL mock server for unit and E2E tests. It requires no external dependencies and runs entirely within WebAssembly on both Node.js and the browser.",
+    "url": "https://github.com/stackframe-projects/pgmock?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "OPENUI",
+    "description": "Describe UI components in natural language and then see them rendered live as AI codes them to your specifications.",
+    "url": "https://github.com/wandb/openui?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PLANDEX",
+    "description": "Plandex automates complex tasks by breaking them into smaller subtasks and executing them sequentially using AI. It\u2019s useful for developers who want to get through boring coding tasks.",
+    "url": "https://github.com/plandex-ai/plandex?utm_source=tldrwebdev"
+  },
+  {
+    "type": "7 MINUTE READ",
+    "title": "INTRODUCING BABYLON.JS 7.0",
+    "description": "Babylon.js 7.0 has new features like procedural geometry and support for global illumination and Gaussian splat rendering, alongside enhanced WebXR features and Apple Vision Pro support. The new version also brings advanced animation system upgrades.",
+    "url": "https://bit.ly/3VMyCJn"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LLOCALSEARCH",
+    "description": "LLocalSearch is a locally-running meta search engine that uses LLM Agents. Users can ask it questions and the system will use a chain of LLMs to find the answer. Users can see the progress of the agents and the final answer.",
+    "url": "https://github.com/nilsherzig/LLocalSearch?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "FX",
+    "description": "Fx is a terminal JSON viewer and processor.",
+    "url": "https://github.com/antonmedv/fx?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "BORP",
+    "description": "Borp is a test runner optimized for Node.js with built-in TypeScript support and code coverage capabilities via c8.",
+    "url": "https://github.com/mcollina/borp?utm_source=tldrwebdev"
+  },
+  {
+    "type": "29 MINUTE READ",
+    "title": "BUN 1.1",
+    "description": "Bun 1.1 is a major update that brings Windows Support, better Node.js compatibility, more APIs, faster performance, and more.",
+    "url": "https://bun.sh/blog/bun-v1.1?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "CREO",
+    "description": "Creo helps developers to rapidly build internal tools by providing an AI-powered solution. Developers describe what they want and it handles the UI, authorization, approvals, auditing, and deployment, generating React code that is customizable.",
+    "url": "https://trycreo.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SWE AGENT",
+    "description": "Princeton has released a SWE agent that uses LLMs to fix bugs and issues in real GitHub repositories.",
+    "url": "https://github.com/princeton-nlp/SWE-agent?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "HEYFORM",
+    "description": "HeyForm is an open-source form builder that allows people to create conversational forms for surveys, questionnaires, quizzes, and polls.",
+    "url": "https://github.com/heyform/heyform?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "CELEST",
+    "description": "Celest is a cloud platform for Flutter. Developers can build their backend in Dart without having to leave their IDE.",
+    "url": "https://celest.dev/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SPICE",
+    "description": "Spice is a runtime that provides developers with a unified SQL query interface to locally materialize, accelerate, and query datasets sourced from any database, data warehouse, or data lake.",
+    "url": "https://github.com/spiceai/spiceai?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "CREATE VUE3 APP",
+    "description": "This tool uses Vite to help you spin up a new Vue-based app using tools based on answers you give to a number of questions.",
+    "url": "https://github.com/selemondev/create-vue3-app?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "PRAGMATIC DRAG AND DROP",
+    "description": "A performance-focused drag-and-drop library that can be used to power experiences on any frontend stack.",
+    "url": "https://atlassian.design/components/pragmatic-drag-and-drop/about?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT NATIVE GIFTED CHARTS",
+    "description": "React Native Gifted Charts is a library for Bar, Line, Area, Pie, Donut, Stacked Bar, and Population Pyramid charts in React Native. The charts are fully customizable, clickable, scrollable, and can be combined together.",
+    "url": "https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "CONCRETE.CSS",
+    "description": "Concrete.css is a classless CSS stylesheet. It supports dark mode and switches themes depending on system settings.",
+    "url": "https://github.com/louismerlin/concrete.css?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT RESIZE AWARE",
+    "description": "React Resize Aware can detect resize events on elements without relying on intervals, loops, DOM manipulation detection, or CSS redraws.",
+    "url": "https://github.com/FezVrasta/react-resize-aware?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "CONTINUE",
+    "description": "Continue is an open-source autopilot for VS Code and JetBrains. It can answer coding questions, edit files using natural language, generate files from scratch, and more.",
+    "url": "https://github.com/continuedev/continue?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "ARCO DESIGN VUE",
+    "description": "A Vue.js 3 UI Library based on Arco Design. It comes with 60+ components and is TypeScript-friendly.",
+    "url": "https://github.com/arco-design/arco-design-vue?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "MAIZZLE",
+    "description": "Maizzle is a framework that helps developers quickly build HTML emails with Tailwind CSS and email-specific post-processing. It is very customizable and comes with free open-source email templates.",
+    "url": "https://maizzle.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PHIN",
+    "description": "Phin is a Node HTTP client, similar to Axios.",
+    "url": "https://github.com/ethanent/phin?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "WHATTHEDUCK",
+    "description": "WhatTheDuck is an open-source web application that allows users to upload CSV files, store them in tables, and perform SQL queries on the uploaded data.",
+    "url": "https://github.com/incentius-foss/WhatTheDuck?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TRACECAT",
+    "description": "Tracecat is an open-source security automation platform that provides user-friendly, powerful, and accessible security automation for teams. It combines enterprise-grade tools, open-source AI, and elements of popular commercial SOAR platforms.",
+    "url": "https://github.com/TracecatHQ/tracecat?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "DOIT HELPS THE BEST COMPANIES BUILD ON AWS",
+    "description": "Cloud-driven organizations trust DoiT [10] to guide their AWS journey. Whether you\u2019re looking to unleash genAI, accelerate release pipelines, or modernize cloud infrastructure - DoiT is the AWS Premier Partner [10]for you. \u27a1\ufe0f Start building with DoiT on AWS [10]",
+    "url": "https://www.doit.com/aws-partner/?utm_source=tldr-webdev&utm_campaign=20240326"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "JAMPACK",
+    "description": "Jampack optimizes static websites for the best user experience and Core Web Vitals scores.",
+    "url": "https://github.com/divriots/jampack?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MOUNTAINEER",
+    "description": "Mountaineer is a web framework for building Web applications using Python.",
+    "url": "https://github.com/piercefreeman/mountaineer?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "INVERTORNOT",
+    "description": "InvertOrNot is a free, open-source API that predicts if an image should be inverted for optimal dark-mode rendering.",
+    "url": "https://invertornot.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "OPENDEVIN",
+    "description": "OpenDevin is an open-source project aiming to replicate Devin, the recently-unveiled AI software engineer capable of executing engineering tasks.",
+    "url": "https://github.com/OpenDevin/OpenDevin?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "ONEREPO",
+    "description": "oneRepo provides JavaScript and TypeScript monorepo management tools. It handles common tasks automatically, has strict safety and checks, and provides human-readable output for logs.",
+    "url": "https://onerepo.tools/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MONOLITH",
+    "description": "Monolith is a CLI tool for saving complete web pages as a single HTML file.",
+    "url": "https://github.com/Y2Z/monolith?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT-JSON-VIEW-LITE",
+    "description": "react-json-view-lite is a lightweight React component designed to efficiently render JSON data as a collapsible tree. It prioritizes performance for large JSON inputs and offers basic styling controls.",
+    "url": "https://github.com/AnyRoad/react-json-view-lite?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MISTCSS",
+    "description": "MistCSS is a way to write visual React components directly from CSS. It supports Next.js, Remix, and TailwindCSS.",
+    "url": "https://github.com/typicode/mistcss?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DROPFLOW",
+    "description": "Dropflow is a CSS layout engine designed to push the boundaries of foundational CSS standards (inlines, blocks, floats, and positioning). It offers high-quality text layout, supports multiple languages (including bidirectional/RTL), and can be used for backend PDF/image generation or rich text rendering within browsers.",
+    "url": "https://github.com/chearon/dropflow?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DISCORD EMBEDDED APP SDK",
+    "description": "The Discord Embedded App SDK enables you to build multiplayer experiences inside Discord. It handles the communication between Discord and iFramed web applications.",
+    "url": "https://github.com/discord/embedded-app-sdk?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "SOUL",
+    "description": "Soul is a command line tool that acts as a SQLite REST and realtime server.",
+    "url": "https://thevahidal.github.io/soul/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "NEXT.JS AI CHATBOT",
+    "description": "This is a full-featured AI chatbot built with Next.js. It supports multiple AI chat models from OpenAI, Anthropic, Cohere, and more. The chatbot uses the Vercel AI SDK for a streaming chat UI and utilizes new React concepts, like React Server Components.",
+    "url": "https://vercel.com/templates/Next.js/nextjs-ai-chatbot?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "FIND VULNERABILITIES FASTER",
+    "description": "Web applications have critical vulnerabilities that only dynamic analysis can find. Rapidly find and fix runtime vulnerabilities with Veracode [18]: \u2705 Scan hundreds of web apps and APIs simultaneously",
+    "url": "https://www.veracode.com/products/dynamic-analysis-dast?utm_source=tldr&utm_medium=webdev-newsletter&utm_campaign=VER7013n0000019ZIBAA2&utm_content=dast-free-trial"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "ETA",
+    "description": "Eta is a lightweight and fast embedded JavaScript templating engine that works inside Node, Deno, and the browser. It is written in TypeScript and emphasizes great performance, configurability, and small bundle size.",
+    "url": "https://github.com/eta-dev/eta?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "CAPO.JS",
+    "description": "How you order elements in the `head` tag can have an effect on the perceived performance of the page. Capo.js helps identify which elements are out of order in your `head` tag on a web page.",
+    "url": "https://github.com/rviscomi/capo.js?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "GARNET",
+    "description": "Garnet is a remote cache store developed by Microsoft Research. It is compatible with standard Redis clients and features a wide range of APIs, custom server-side operations, a robust storage layer, security, and more.",
+    "url": "https://github.com/microsoft/garnet?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "TEAMCITY PIPELINES",
+    "description": "JetBrains has released TeamCity Pipelines, which offers self-tuning CI/CD pipelines to help developers stay in flow.",
+    "url": "https://www.jetbrains.com/teamcity/pipelines/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "SHIKI",
+    "description": "Shiki is a syntax highlighter that runs on any JavaScript runtime and works with VS Code.",
+    "url": "https://shiki.style/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PLANKA",
+    "description": "Planka is a real-time Kanban board built with React and Redux. It can be used to create projects, boards, lists, labels, cards, and more. Planka supports Markdown, filtering, real-time updates, and internal notifications.",
+    "url": "https://github.com/plankanban/planka?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SATCSS",
+    "description": "A CSS refactoring tool that minimizes CSS files.",
+    "url": "https://github.com/matthewhague/sat-css-tool?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PRETZEL",
+    "description": "Pretzel is an offline tool for exploring and visualizing large datasets directly within a web browser. Its interface and automatic updates streamline data manipulation, eliminating the need for complex setups.",
+    "url": "https://github.com/pretzelai/pretzelai?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "UI KIT",
+    "description": "A UI kit for building performant 3D user interfaces for Three.js in React with support for nested scrolling, buttons, inputs, dropdowns, tabs, checkboxes, and more.",
+    "url": "https://github.com/pmndrs/uikit?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PSD",
+    "description": "PSD is a lightweight parser for Adobe Photoshop PSD and PSB files. It can be used both in web browsers and Node.js, uses WebAssembly to speed up decoding image data, and pulls in zero dependencies.",
+    "url": "https://github.com/webtoon/psd?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LAVAGUE",
+    "description": "LaVague is a framework that transforms natural language instructions into browser interactions.",
+    "url": "https://github.com/lavague-ai/LaVague?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SKYVERN",
+    "description": "Skyvern automates browser-based tasks using LLMs and computer vision. It is able to handle unfamiliar websites and changes in website layout without breaking.",
+    "url": "https://github.com/Skyvern-AI/skyvern?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT GEIGER",
+    "description": "React Geiger is a tool for \"audiolizing\" React performance issues. It runs in the background and makes little clicking noises during excessively slow component rerenders.",
+    "url": "https://github.com/kristiandupont/react-geiger?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "FINDER",
+    "description": "Finder generates the shortest CSS selector for elements on web pages.",
+    "url": "https://github.com/antonmedv/finder?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "BEBOP",
+    "description": "Bebop is a fast data interchange format. In benchmarks, it is 100 times faster than Protocol Buffers and 1000 times faster than JSON. Bebop offers the binary serialization benefits of Protocol Buffers with a better developer experience.",
+    "url": "https://github.com/betwixt-labs/bebop?utm_source=tldrwebdev"
+  },
+  {
+    "type": "5 MINUTE READ",
+    "title": "ASTRO 4.5",
+    "description": "Astro 4.5 introduces a new Dev Audit UI that provides in-browser guidance for improving site performance and accessibility. This release also offers enhanced View Transitions functionality, multi-CDN asset prefixing for optimized content delivery, and more.",
+    "url": "https://astro.build/blog/astro-450/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "WINTERJS",
+    "description": "WinterJS is a fast JavaScript server that runs Service Workers scripts. It is able to handle up to 100,000 requests per second on a single laptop.",
+    "url": "https://github.com/wasmerio/winterjs?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "JSON CANVAS",
+    "description": "JSON Canvas is an open-source file format designed for storing and exchanging data from infinite canvas tools (like digital whiteboards). It aims to improve the longevity, readability, and flexibility of user-created content within these applications.",
+    "url": "https://jsoncanvas.org/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "GOQITE",
+    "description": "Goqite is a persistent message queue library built on SQLite and inspired by AWS SQS.",
+    "url": "https://www.goqite.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TANSTACK STORE",
+    "description": "TanStack Store is a framework-agnostic type-safe store with reactive framework adapters. It supports React, Vue, Angular, and SolidJS. TanStack Store requires minimal setup and comes with granular APIs.",
+    "url": "https://github.com/tanstack/store?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT UNFORGET",
+    "description": "React Unforget is a compiler that analyzes React components and hooks to identify optimization opportunities and automatically inserts memoization code where it will have the most impact, reducing unnecessary re-renders and improving overall performance. It features intelligent memoization of components, hooks, and JSX elements, as well as the ability to optimize code execution even in the presence of early returns.",
+    "url": "https://github.com/mohebifar/react-unforget?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "ONBOARDING_LIB",
+    "description": "An onboarding library for building accessible, customizable, and persistent onboarding flows in React apps.",
+    "url": "https://github.com/useflytrap/onboarding_lib?utm_source=tldrwebdev"
+  },
+  {
+    "type": "13 MINUTE READ",
+    "title": "ANNOUNCING TYPESCRIPT 5.4",
+    "description": "TypeScript 5.4 features better type inference, support for new JavaScript methods like Object.groupBy, and stricter type-checking to catch potential errors.",
+    "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/?retry&utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "ELOQUENT JAVASCRIPT",
+    "description": "An online book for learning JavaScript.",
+    "url": "https://eloquentjavascript.net/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LOGSCREEN",
+    "description": "LogScreen allows you to search logs easily. It pipes them together and visualizes them in a web app.",
+    "url": "https://github.com/soorajshankar/logScreen?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DAYTONA",
+    "description": "With a single command, Daytona creates fully configured development environments that can run anywhere (local, cloud, VM, etc). To optimize efficiency, it utilizes configuration files (like dev containers) and prebuilt systems. Daytona integrates with VS Code, JetBrains, and a built-in Web IDE, as well as Git providers.",
+    "url": "https://github.com/daytonaio/daytona?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "ENTERPRISE SAAS STARTER KIT",
+    "description": "This is an open-source Next.js boilerplate for Enterprise SaaS applications. It uses Tailwind CSS, has built-in authentication, and supports Postgres, SAML SSO, and Directory Sync.",
+    "url": "https://github.com/boxyhq/saas-starter-kit?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "ENTE",
+    "description": "Ente is an open-source platform that offers end-to-end encryption for cloud data storage. There are currently two applications built on this platform: Ente Photos (an alternative to Apple/Google Photos) and Ente Auth (a 2FA solution). Ente's source code and cryptography have undergone audits by well-known cybersecurity firms.",
+    "url": "https://github.com/ente-io/ente?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "EXPRESSOTS",
+    "description": "ExpressoTS is a Typescript and Node.js framework for quickly building scalable, easy-to-read and maintain server-side applications.",
+    "url": "https://github.com/expressots/expressots?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "JSR",
+    "description": "JSR is an open-source package registry for JavaScript and TypeScript.",
+    "url": "https://jsr.io/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PUTER",
+    "description": "Puter is an open-source desktop environment that runs in a web browser. It is designed to be feature-rich, exceptionally fast, and highly extensible. Puter can be used to create remote desktop environments and serve as an interface for various services, including cloud storage, remote servers, and web hosting platforms.",
+    "url": "https://github.com/HeyPuter/puter?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "UBICLOUD",
+    "description": "Ubicloud provides cloud services on bare metal providers, such as Hetzner, OVH, or AWS Bare Metal. You can set it up yourself or use its managed service. Ubicloud aims to offer an open alternative to cloud providers while reducing costs.",
+    "url": "https://www.ubicloud.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "TURN YOUR MAC INTO A PRODUCTIVITY POWERHOUSE",
+    "description": "If you\u2019re a Mac user, you need to check out Raycast [12]. It\u2019s a blazingly-fast, totally extendible launcher that lets you do pretty much everything: search files, run system commands, calculate anything, manage windows (!), see clipboard history, and much more! Raycast is always free to download [12]. Go Pro for always-on ChatGPT wherever you\u2019re working, cloud sync, and other power features. Download here to get started [12]",
+    "url": "https://ray.so/tldr-newsletter-webdev?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "WAKU",
+    "description": "Waku is a minimal React framework designed for small to medium-sized React projects.",
+    "url": "https://waku.gg/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "HANCHO",
+    "description": "Hancho is a build system written in Python designed for small to medium-sized projects.",
+    "url": "https://github.com/aappleby/hancho?utm_source=tldrwebdev"
+  },
+  {
+    "type": "BETA",
+    "title": "TAB AUTOCOMPLETE",
+    "description": "Continue, an open-source code copilot, now provides support for tab autocomplete in VS Code based on local models, which means that there are no server costs or online server calls.",
+    "url": "https://continue.dev/docs/walkthroughs/tab-autocomplete?utm_source=tldrwebdev"
+  },
+  {
+    "type": "2 MINUTE READ",
+    "title": "NEW TO THE WEB PLATFORM IN FEBRUARY",
+    "description": "The stable releases of Firefox 123 and Chrome 122 have updates including declarative shadow DOM, a new Storage Buckets API, and a feature that preloads resources with the 103 Early Hints HTTP code.",
+    "url": "https://web.dev/blog/web-platform-02-2024?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PINGORA",
+    "description": "Pingora is a Rust framework for building fast, reliable, and programmable networked systems. Cloudflare uses it to serve more than 40 million requests per second.",
+    "url": "https://github.com/cloudflare/pingora?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "AWS LAMBDA WEB ADAPTER",
+    "description": "AWS Lambda Web Adapter is a tool for running web applications on AWS Lambda. It allows developers to build web apps that use an HTTP API with familiar frameworks like Express.js, Laravel, Next.js, Flask, and more on AWS Lambda.",
+    "url": "https://github.com/awslabs/aws-lambda-web-adapter?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "SQL WORKBENCH",
+    "description": "SQL Workbench allows you to run and test your SQL queries in the browser.",
+    "url": "https://sql-workbench.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "PGS.SH",
+    "description": "pgs.sh is a zero-install static site hosting service. It supports unlimited projects, custom domains, custom headers, asset storage, and more. Client-side installation is not required.",
+    "url": "https://pgs.sh/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "INGESTR",
+    "description": "Ingestr is a command-line application that allows you to ingest data from any source into any destination using command-line flags. It supports multiple sources and destinations, including Postgres, BigQuery, Snowflake, Redshift, and more.",
+    "url": "https://github.com/bruin-data/ingestr?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MOUNTAINEER",
+    "description": "Mountaineer is a framework for building web apps with Python and React. It provides typehints throughout the entire stack (frontend, backend, and database), has easy client/server communication and optimized server rendering, and performs static analysis of web pages for strong validation.",
+    "url": "https://github.com/piercefreeman/mountaineer?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "NP",
+    "description": "np is a better npm publish. It has an interactive UI, ensures your working directory is clean, and keeps your package.json up to date.",
+    "url": "https://github.com/sindresorhus/np?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "SKELETON UI",
+    "description": "Skeleton is a fully featured UI Toolkit for building reactive interfaces quickly using Svelte and Tailwind CSS. It comes with customizable actions, components, and utilities.",
+    "url": "https://www.skeleton.dev/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "1 MINUTE READ",
+    "title": "FREE MONITOR CERTIFICATE EXPIRY VIA RSS",
+    "description": "A free service that uses RSS to monitor TLS certificate expiry. No sign-up is required.",
+    "url": "https://raphting.dev/posts/monitor-rss/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "4 MINUTE READ",
+    "title": "REDWOOD V7",
+    "description": "Redwood is a full-stack web framework that brings together React, GraphQL, Prisma, and TypeScript with a focus on building complete apps rapidly. v7 includes a new observability tool called Redwood Studio, real-time GraphQL features, and more.",
+    "url": "https://community.redwoodjs.com/t/redwood-v7-0-0-is-now-available/5777?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "FUNCTIONAL UI KIT",
+    "description": "Functional UI Kit is a design system that provides the core components needed in every project, focusing on accessibility, development experience, and a unified designer-developer experience. It makes sure that Figma variables and CSS variables work together effortlessly by sharing the same names, usage, and inheritance structure. Each Figma variable has a direct counterpart in CSS.",
+    "url": "https://github.com/functional-ui/functional-ui-kit?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "PERSPECTIVE",
+    "description": "Perspective is an interactive analytics and data visualization component that is well-suited for large and/or streaming datasets. It can be used to create user-configurable reports, dashboards, notebooks, and applications. Perspective is deployable stand-alone in the browser or in concert with Python/Jupyter Notebooks.",
+    "url": "https://perspective.finos.org/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "JUSTPATH",
+    "description": "A simple utility for exploring the PATH environment variable in both Windows and Linux.",
+    "url": "https://github.com/epogrebnyak/justpath?utm_source=tldrwebdev"
+  },
+  {
+    "type": "1 MINUTE READ",
+    "title": "PHIND-70B",
+    "description": "Phind-70B is a free LLM model that beats the latest GPT-4 Turbo on certain benchmarks. It is specifically made for fast code generation and is meant to be used by developers.",
+    "url": "https://www.phind.com/blog/introducing-phind-70b?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "FROM TO DB",
+    "description": "Create forms directly from your Postgres, MySQL, or MSSQL database.",
+    "url": "https://www.formtodb.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "READYSET",
+    "description": "ReadySet is a transparent database cache for Postgres & MySQL that has the performance and scalability of an in-memory key-value store. It sits between applications and databases and turns complex SQL reads into fast lookups. ReadySet keeps cached query results in sync with databases automatically by utilizing its existing replication stream.",
+    "url": "https://github.com/readysettech/readyset?utm_source=tldrwebdev"
+  },
+  {
+    "type": "9 MINUTE READ",
+    "title": "REMIX VITE IS NOW STABLE",
+    "description": "Remix has announced the stable release of Remix Vite, which offers various new features and improvements built on top of Vite, including an SPA mode, Cloudflare Pages support, a cleaner build output, and better server/client separation.",
+    "url": "https://remix.run/blog/remix-vite-stable?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "HYPERDIV",
+    "description": "Hyperdiv is a Python framework for developing reactive browser UI apps. It features built-in components, terse immediate-mode syntax, and minimal tool boilerplate. Hyperdiv supports Markdown, charts, styled web components, local storage, and forms.",
+    "url": "https://github.com/hyperdiv/hyperdiv?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DAX",
+    "description": "Dax is a collection of cross-platform shell tools for Deno and Node.js. It allows users to export the shell\u2019s environment to the current process. Dax has support for a global configuration. It brings extra features to Windows that are natively available on Unix-based systems.",
+    "url": "https://github.com/dsherret/dax?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "\u23e9\u00a0MANUAL TO AUTOMATED QA IN JUST 4 MONTHS",
+    "description": "How far are you from having 3-minute QA cycles, zero false positives, and human-verified bug reports? Fast track your testing maturity with QA Wolf (4.8/5 in G2) [13]. Get to 80% automated end-to-end test coverage in just 4 months, including unlimited parallel runs on QA Wolf infrastructure + 24-hour maintenance and triage. Request a free 90 day pilot [13]",
+    "url": "https://www.qawolf.com/lp/tldr?utm_campaign=ManualToAutomated02202024&utm_source=tldrwebdev&utm_medium=newsletter"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "HTMZ",
+    "description": "htmz is a minimalist HTML microframework that allows developers to create modular web user interfaces with the familiar simplicity of plain HTML.",
+    "url": "https://leanrada.com/htmz/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TEMPO",
+    "description": "Tempo is a JavaScript library that makes it easy to work with Date objects by providing various utilities. It uses JavaScript's Intl.DateTimeFormat to extract complex data like timezones offsets and locale aware date formats to provide an API to format, parse, and manipulate dates.",
+    "url": "https://github.com/formkit/tempo?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PEGGY",
+    "description": "Peggy is a JavaScript parser generator that delivers swift parsers equipped with error reporting. Developers can use Peggy to build transformers, interpreters, compilers, and beyond.",
+    "url": "https://github.com/peggyjs/peggy?utm_source=tldrwebdev"
+  },
+  {
+    "type": "6 MINUTE READ",
+    "title": "OBSERVABLE 2.0",
+    "description": "Observable 2.0 is a platform focused on building data apps, dashboards, and reports. It comes with Observable Framework, a static site generator that combines the strengths of JavaScript for interactive graphics with any language for data analysis. Framework offers a better user experience with precomputed data for fast loading and beautiful design, a better data architecture with flexible data loaders that run on your servers for security and privacy, and a better developer workflow with files, code review, and offline work.",
+    "url": "https://observablehq.com/blog/observable-2-0?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "UV",
+    "description": "uv is an extremely fast and efficient Python package installer and resolver designed to replace pip and pip-tools. It boasts 10-100x faster speeds, uses a global cache to save space, and supports a wide range of features like version overrides, conflict tracking, and support for various dependency formats.",
+    "url": "https://github.com/astral-sh/uv?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MAGIKA",
+    "description": "Magika is an AI-powered file type detection tool created and open-sourced by Google. It uses an optimized 1MB Keras model that enables precise file identification within milliseconds. Magika is currently used within Google to help improve Google users\u2019 safety by routing Gmail, Drive, and Safe Browsing files to the proper security and content policy scanners.",
+    "url": "https://github.com/google/magika?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "ATTEND XRP LEDGER ZONE @ ETHDENVER!",
+    "description": "Attending EthDenver? Join XRP Ledger Zone [10] on February 27! Learn how the robust security of the XRP Ledger (XRPL) [10] meets the smart contract programmability of EVM.",
+    "url": "https://xrplzone-ethdenver.splashthat.com/?utm_source=p_newsletter&utm_medium=tldr&utm_campaign=tldr-webdev"
+  },
+  {
+    "type": "8 MINUTE READ",
+    "title": "OUR NEXT-GENERATION MODEL: GEMINI 1.5",
+    "description": "Google has introduced Gemini 1.5, a large language model with significantly improved performance and new features, like a one million token context window. It's still under testing, but it is available for developers and enterprises in Google\u2019s AI Studio and Google Cloud\u2019s Vertex AI. Gemini 1.5 Pro offers similar performance to Gemini Ultra but is more efficient and opens up new possibilities for tasks like better reasoning, code writing, and problem-solving due to its extensive context.",
+    "url": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "FUZZY SEARCH",
+    "description": "Fuzzy Search is a frontend library for searching objects by their names and features. Queries are fast and usually take under 10ms to complete.",
+    "url": "https://github.com/m31coding/fuzzy-search?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "ZENFETCH",
+    "description": "Zenfetch helps you leverage all the information you've saved, including articles, PDFs, and YouTube videos. It uses AI to organize everything and enables users to have conversations about their saved content, extract information, validate thoughts, and brainstorm ideas.",
+    "url": "https://www.zenfetch.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "VELVETTE",
+    "description": "Velvette is a JavaScript library that implements common patterns on top of CSS view transitions. It makes it easier to author CSS view transitions by providing useful temporary classes while the transition is active. Velvette can generate unique names and animate between list and detail views.",
+    "url": "https://github.com/noamr/velvette?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REOR",
+    "description": "Reor is an AI note-taking app that automatically connects related notes and answers questions based on them. It offers a semantic search. Everything runs locally, with optional connections to APIs. By embedding notes and utilizing vector similarity, Reor \"self-organizes\" your ideas, drawing connections and surfacing related notes.",
+    "url": "https://github.com/reorproject/reor?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "OINK.PHP",
+    "description": "oink.php is a free and open-source API wrapper for PHP - in a single file.",
+    "url": "https://github.com/jcarlosroldan/oink?utm_source=tldrwebdev"
+  },
+  {
+    "type": "4 MINUTE READ",
+    "title": "MEMORY AND NEW CONTROLS FOR CHATGPT",
+    "description": "ChatGPT is being updated with the ability to remember information from past conversations, which will make it more personalized in future interactions. Users will have control over what information is remembered and can tell the chatbot to forget things if they want. This feature is currently being tested with a small group of users and will be rolled out more broadly soon.",
+    "url": "https://openai.com/blog/memory-and-new-controls-for-chatgpt?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "UNLAZY",
+    "description": "Unlazy is a lazy loading library that leverages native browser APIs. It's intended for use with the loading=\"lazy\" attribute alongside (blurry) placeholder images.",
+    "url": "https://github.com/johannschopplich/unlazy?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "LINEN",
+    "description": "Linen is a real-time thread-first messaging platform. It\u2019s designed for deep work first, with organized channels, a centralized inbox, and personalized notifications.",
+    "url": "https://linen.team/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "STRACT",
+    "description": "Stract is an open-source web search engine targeted towards tinkerers and developers. It features keyword search, advanced query syntax, a Wikipedia and StackOverflow sidebar, priority of personally-selected trusted websites, and more.",
+    "url": "https://github.com/StractOrg/stract?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SAPLING",
+    "description": "Sapling is a code editor that prioritizes editing speed, allowing users to edit code at the pace of their thoughts. It is similar to editors like Vim and supports editing in any language through plugins.",
+    "url": "https://github.com/kneasle/sapling?utm_source=tldrwebdev"
+  },
+  {
+    "type": "6 MINUTE READ",
+    "title": "ANNOUNCING REACT NATIVE FOR APPLE VISION PRO",
+    "description": "React Native is now available for developing applications for the Apple Vision Pro.",
+    "url": "https://www.callstack.com/blog/announcing-react-native-for-apple-vision-pro?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "HURL",
+    "description": "Hurl is a command line tool designed to execute HTTP requests specified in a straightforward plain text format. It offers features such as request chaining, value capturing, and query evaluation on response headers and bodies, making it suitable for both data retrieval and HTTP session testing. Hurl supports working with various types of APIs, including HTML, REST, SOAP, GraphQL, XML, and JSON.",
+    "url": "https://github.com/Orange-OpenSource/hurl?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LEO",
+    "description": "Leo is a functional, statically typed programming language designed for creating private applications. It abstracts low-level cryptographic concepts, facilitating the integration of private apps into existing systems by compiling to circuits, making zero-knowledge proofs feasible. Leo offers developers tools for circuit sanity checks, including unit tests, integration tests, and console functions.",
+    "url": "https://github.com/AleoHQ/leo?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LLRT",
+    "description": "LLRT is a lightweight JavaScript runtime designed to meet the demand for fast and efficient serverless applications. It can offer up to 10 times faster startup and 2 times lower cost compared to other JavaScript runtimes that run on AWS Lambda. LLRT is developed and created by AWS.",
+    "url": "https://github.com/awslabs/llrt?utm_source=tldrwebdev"
+  },
+  {
+    "type": "6 MINUTE READ",
+    "title": "SUDO FOR WINDOWS",
+    "description": "Microsoft has announced Sudo for Windows, a new command-line tool that allows users to run elevated commands without opening a separate window. It offers three configuration options: opening a new window, closing input, or running inline. This blog post discusses the security implications of each configuration and the differences between Sudo and the existing \u201crunas\u201d command.",
+    "url": "https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "2 MINUTE READ",
+    "title": "INTRODUCING AI INTEGRATIONS ON VERCEL",
+    "description": "Vercel has announced new AI integrations that allow developers to easily incorporate AI models and services into their applications. This includes a model playground for testing various providers and an AI SDK for seamless integration.",
+    "url": "https://vercel.com/blog/ai-integrations?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SQLITE WEB",
+    "description": "SQLite Web is a web-based SQLite database browser written in Python. It lets developers add, drop, or edit tables, columns, rows, and indexes. SQLite Web works with both existing SQLite databases or can be used to create new ones. It allows for the import and export of both JSON and CSV files.",
+    "url": "https://github.com/coleifer/sqlite-web?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "CONCRETE.CSS",
+    "description": "Concrete.css is a simple, classless CSS framework. It offers styling for typography, sections, buttons, images, lists, forms, tables, blockquotes, and progress bars.",
+    "url": "https://concrete.style/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MEOW",
+    "description": "Meow is a CLI app helper. It can parse arguments, convert flags to camel case, negate flags with \u201c--no-\u201d prefixes, and output helpful descriptions and help text. Meow has no dependencies.",
+    "url": "https://github.com/sindresorhus/meow?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "GEPPETTO",
+    "description": "Geppetto is a Slack bot that lets teams easily interact with ChatGPT. It integrates with OpenAI's ChatGPT-4 and DALL-E-3 models. Each message generates a conversation thread. The application uses the message history to formulate coherent responses.",
+    "url": "https://github.com/Deeptechia/geppetto?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "BOUNCY BALL",
+    "description": "Bouncy Ball compares web animation techniques by showing how to bounce a ball with each one. Multiple code examples in different languages are shown, including vanilla JavaScript, pure CSS, jQuery, Anime.js, and more.",
+    "url": "https://sparkbox.github.io/bouncy-ball/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SERVOR",
+    "description": "Servor is a dependency-free file server for modern web app development. It supports HTTPS, live reloading, gzip, hot reload, frontend routing, and more.",
+    "url": "https://github.com/lukejacksonn/servor?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "PANDA CSS",
+    "description": "Panda CSS is a styling engine that generates CSS-in-JS styles in a type-safe and readable way. It is compatible with various frameworks, including Next.js, Vue, Svelte, and Astro.",
+    "url": "https://panda-css.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "WEB2PDF",
+    "description": "Web2PDF is a CLI to convert web pages into well-formatted PDFs.",
+    "url": "https://github.com/dvcoolarun/web2pdf?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "NATURALSQL",
+    "description": "NaturalSQL is a series of LLM models that can produce accurate SQL from natural language.",
+    "url": "https://github.com/cfahlgren1/natural-sql?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "\ud83d\udcfa DEBUGGING NEXT.JS APPLICATIONS WITH SENTRY",
+    "description": "This 7-part technical video series [11] is a must-bookmark for anyone building in Next.js. Learn about application monitoring, sourcemaps, event context, alerts, distributed tracing, session replay \u2014 and everything else you need to build and test resilient apps. Free to watch (no registration required) [11]",
+    "url": "https://sentry.io/community/?utm_source=tldr&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=newsletter-nextjscommunityseries-checkitout"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "TINTS",
+    "description": "Tints is a Tailwind CSS color palette generator. Each palette is easy to create and has a unique shareable URL for teams.",
+    "url": "https://www.tints.dev/"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "HIGHLIGHT",
+    "description": "Highlight is an open-source monitoring tool. It comes with full support for web-based session replay, error monitoring, and logging.",
+    "url": "https://github.com/highlight/highlight?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "PKL",
+    "description": "Pkl is a programming language for configuration files. Developers can define their data in Pkl and generate output in JSON, YAML, and other configuration formats easily. Pkl allows developers to catch errors before deployment.",
+    "url": "https://pkl-lang.org/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "STANCHION",
+    "description": "Stanchion is an SQLite 3 extension that brings column-oriented storage to SQLite. SQLite exclusively supports row-oriented tables, but Stanchion changes that. Column-oriented storage is generally better for analytics queries over many rows and few columns and metric, log, event, and time-series data.",
+    "url": "https://github.com/dgllghr/stanchion?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "JOLT",
+    "description": "Jolt is a JSON structural transformation library that is useful for transforming JSON data from databases or extracting data from large JSON documents for your own consumption.",
+    "url": "https://github.com/bazaarvoice/jolt?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "KEYV",
+    "description": "Keyv is a library that abstracts the concept of key-value storage, allowing you to easily use a memory-based store (by default) or, if you need persistence, Redis, SQLite, Postgres, MySQL, Mongo, or even a tiered approach.",
+    "url": "https://github.com/jaredwray/keyv?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "FABRIC",
+    "description": "Fabric helps people integrate AI into their lives. It can help extract the most interesting parts of podcasts and YouTube videos, summarize academic papers, create AI art prompts for a piece of writing, and more.",
+    "url": "https://github.com/danielmiessler/fabric?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "FALCO",
+    "description": "Falco is a Django toolkit made to improve the development experience. It offers a CLI with commands for initiating new projects, generating CRUD views for speedy prototyping, and much more. It also provides a collection of guides that aim to solve common issues with web development in Django.",
+    "url": "https://github.com/Tobi-De/falco?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "OPEN SAAS",
+    "description": "Open SaaS is a SaaS template that features Wasp, a React, NodeJS, and Prisma framework. It comes with Stripe for payments, OpenAI API integrations, Plausible for Google Analytics, various providers for email sending, TailwindCSS for styling, and more.",
+    "url": "https://github.com/wasp-lang/open-saas?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "MERGE YOUR PULL REQUEST 10X FASTER WITH AI",
+    "description": "AI-first code reviewer with context-aware feedback, line-by-line code suggestions, and real-time chat. Loved by hundreds of developers. Start for $0/mo [9]",
+    "url": "https://coderabbit.ai/?utm_source=newsletter&amp;utm_medium=webdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MUTATIVE",
+    "description": "Mutative is a JavaScript library for efficient immutable updates. It\u2019s 2-6x faster than the native handcrafted reducer and more than 10x faster than Immer. Some of Mutative's features include higher performance, optional freezing state, and support for JSON Patch.",
+    "url": "https://github.com/unadlib/mutative?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "QUICKJS",
+    "description": "QuickJS is a compact embeddable JavaScript engine. It supports the ES2023 specification including modules, asynchronous generators, and mathematical extensions. QuickJs is small and easy to embed, offers a fast interpreter with low startup time, and can compile JavaScript to executables without any external dependencies.",
+    "url": "https://bellard.org/quickjs/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TXTAI",
+    "description": "Txtai is an all-in-one embeddings database for semantic search, language model orchestration, and various language model workflows. It incorporates vector search with SQL, object storage, topic modeling, graph analysis, and multimodal indexing. The project can be implemented using Python or YAML and offers API bindings for various programming languages.",
+    "url": "https://github.com/neuml/txtai?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "VIROREACT",
+    "description": "ViroReact is a library for developers to swiftly create augmented reality (AR) and virtual reality (VR) applications. It ensures seamless native execution across various mobile VR platforms (such as Google Daydream, Samsung Gear VR, and Google Cardboard for both iOS and Android) as well as AR platforms (iOS ARKit and Android ARCore).",
+    "url": "https://github.com/NativeVision/viro?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MARKER",
+    "description": "Marker converts PDF, EPUB, and MOBI files to Markdown. It has support for a range of PDFs, removes headers/footers and other artifacts, converts equations to LaTeX successfully, formats code blocks, and tables, and supports multiple languages.",
+    "url": "https://github.com/VikParuchuri/marker?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "JINT",
+    "description": "Jint is a JavaScript interpreter designed for .NET environments. It is compatible with various .NET platforms, including .NET Standard 2.0 and .NET 4.6.2 onwards. Its primary use cases involve running JavaScript securely within a .NET application, enabling the interaction between JavaScript and native .NET objects, and supporting scripting in .NET applications to allow customization using JavaScript, similar to how Unity games use it.",
+    "url": "https://github.com/sebastienros/jint?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "ZED",
+    "description": "Zed is a high-performance multiplayer code editor from the creators of the code editor Atom.",
+    "url": "https://github.com/zed-industries/zed?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "RETRIEVER",
+    "description": "Retriever lets you request secrets from anyone without any of the data going to a server.",
+    "url": "https://retriever.corgea.io/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "4 MINUTE READ",
+    "title": "REACT EMAIL 2",
+    "description": "Resend\u2019s React Email 2 includes features such as a new preview experience, significant performance improvements, new components for displaying code, and the ability to deploy to Vercel. The preview experience has been revamped with new mobile previews, a revamped file tree, better user feedback, and improved error handling. New components, including a code-block and code-inline component, make it easier to display code in emails.",
+    "url": "https://resend.com/blog/react-email-2?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TYPESPEC",
+    "description": "TypeSpec is a language designed for describing cloud service APIs and generating various assets, such as API description languages, client and service code, and documentation. It offers extensible core language features that can describe API structures commonly found in REST, OpenAPI, GraphQL, gRPC, and other protocols. TypeSpec enables the creation of reusable patterns for API design and allows for the detection of known anti-patterns, helping API designers adhere to best practices.",
+    "url": "https://github.com/microsoft/typespec?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "ATLAS",
+    "description": "Atlas is a browser-based tool that allows users to work with geospatial data and share their results. It enables users to build interactive maps, analyze data in the context of location, visualize trends, facilitate teamwork and information sharing among GIS professionals, and present plans and proposals in an easily understandable format.",
+    "url": "https://atlas.co/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "HEAT.JS",
+    "description": "Heat.js is a lightweight JavaScript library that generates customizable heat maps to visualize date-based activity and trends. It\u2019s similar to GitHub\u2019s yearly contribution heatmap that is displayed on user\u2019s profiles.",
+    "url": "https://github.com/williamtroup/Heat.js?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "BRIG",
+    "description": "Brig is a user interface toolkit for Node.js. It\u2019s used to load and play QML files, which are used in graphical applications to render objects.",
+    "url": "https://github.com/BrigJS/brig?utm_source=tldrwebdev"
+  },
+  {
+    "type": "4 MINUTE READ",
+    "title": "THE BUN SHELL",
+    "description": "The Bun Shell is an experimental embedded language and interpreter that enables running cross-platform shell scripts in JavaScript and TypeScript. It provides features like using JavaScript variables in shell scripts, redirection, piping, and support for common shell commands.",
+    "url": "https://bun.sh/blog/the-bun-shell?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TAIPY",
+    "description": "Taipy is an open-source Python library designed for data scientists and machine learning engineers to build full-stack web applications. It enables the development of production-ready web apps without requiring users to learn new languages or full-stack frameworks. Taipy offers pre-built components for data pipelines, scenario and data management features, and tools for version management and pipeline orchestration.",
+    "url": "https://github.com/Avaiga/taipy?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DEMO AI APP",
+    "description": "This is a sample movie finder app to demonstrate how to incorporate AI into your applications. It showcases the implementation of AI features such as tagging, finding semantically similar data, deep searching using natural language, and searching through images.",
+    "url": "https://github.com/sst/demo-ai-app?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "THE AHA STACK",
+    "description": "The AHA Stack is a full-stack web app approach that combines Astro, htmx, and Alpine.js. It lets you send HTML over the wire, replacing a JS-heavy approach with a simpler set of mental models and workflows.",
+    "url": "https://ahastack.dev/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT RESIZE DETECTOR",
+    "description": "React Resize Detector detects element size changes through native browser ResizeObservers.",
+    "url": "https://github.com/maslianok/react-resize-detector?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MARIMO",
+    "description": "Marimo is a reactive notebook for Python that is interactive, shareable, reproducible, and Git-friendly. With this tool, you can quickly experiment with data and models and build notebooks as pipelines or interactive web apps.",
+    "url": "https://github.com/marimo-team/marimo?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PRIVY",
+    "description": "Privy is a private coding assistant. It features an AI Chat feature that you can talk to about your code. Privy can also explain code, generate tests, diagnose errors, and find bugs.",
+    "url": "https://github.com/srikanth235/privy?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "FAST-CSV",
+    "description": "Fast-csv is a library built using TypeScript that is made for parsing and formatting CSVs in nodes. Fast-csv offers flexible formatting and parsing options, making it easy to customize.",
+    "url": "https://github.com/C2FO/fast-csv?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "ENTERPRISE-GRADE API MOCKING - FOR FREE",
+    "description": "When your code has a lot of API dependencies,\u00a0flexible and reliable API mocking [11]\u00a0becomes crucial. Companies like Ingenico, IBM, and BiltCard use\u00a0WireMock Cloud [11]\u00a0to simulate real-world API scenarios (including edge cases and faults), test and deploy new code, and seamlessly move to production when the API is ready. Start mocking for free with just your GitHub account or email [11]",
+    "url": "https://t.sidekickopen07.com/Ctc/GH+23284/d2SwT604/JkM3crJ5W6N1vHY6lZ3q2W7J5yP22dV7-pW8_Fv4X5tb4N4W5mYhQG7nkt4qW18rPB18vWJ1WW29mxF771QkRzW6k32321XZGMnMK7JvzRK3RBW22xLZv3Zbb3GW1q-1ZB5fYKTdW5Ct5Ww99qZrBW4Kq-v07vFjTdW72bnlL176mVhW7s74_y2NMHQ8W3c2Dms46dbBhW646m-F3Xgl3dW4Zhv_y77j9ZkW87_zVH1HsBNzW9h83yD5w2nG_W4pdHYP2mZ9frW1ncc0448D54GW8Z53yq1g_h3BW3ry6v72bBcHwf2sMVq004?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TINYBENCH",
+    "description": "Tinybench is a small, lightweight benchmarking library for JavaScript.",
+    "url": "https://github.com/tinylibs/tinybench?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MAYBE",
+    "description": "Maybe is an open-source personal finance app that used to be a (failed) startup. It features net worth tracking, financial account syncing, investment benchmarking, and more. The app is built with Next.js, Tailwind CSS, Node, Express, and Postgres.",
+    "url": "https://github.com/maybe-finance/maybe?utm_so0urce=tldrwebdev&amp;utm_source=tldrwebdev"
+  },
+  {
+    "type": "7 MINUTE READ",
+    "title": "EXPLORING THE REDUX SECOND GENERATION",
+    "description": "Redux Toolkit has become the standard method for creating Redux apps, reducing boilerplate code and streamlining state management. The key changes in Redux Toolkit 2.0 include modernization, better workflow, dependency updates, and the introduction of new features like lazy loading slices and dynamic middleware.",
+    "url": "https://blog.logrocket.com/exploring-redux-second-generation/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "CSS HOOKS",
+    "description": "CSS Hooks bring CSS features to native inline styles, enabling you to target various states such as hover, focus, and active without leaving the style prop.",
+    "url": "https://github.com/css-hooks/css-hooks?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "ELEMENT PLUS",
+    "description": "A Vue 3 UI component library with TypeScript support.",
+    "url": "https://github.com/element-plus/element-plus?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PATHWAY",
+    "description": "Pathway is a high-throughput, low-latency data processing framework that handles live data & streaming. It can create Python code that combines batch processing, streaming, and real-time APIs for LLM apps.",
+    "url": "https://github.com/pathwaycom/pathway?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TANTIVY",
+    "description": "Tantivy is a full-text search engine library built in Rust. It\u2019s not an off-the-shelf search engine server, but instead a foundation on which a search engine can be built.",
+    "url": "https://github.com/quickwit-oss/tantivy?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "ZIP.JS",
+    "description": "Zip.js is a simple JavaScript library for zipping and unzipping files, with support for multiple formats, concurrency, and password-protected ZIPs.",
+    "url": "https://github.com/gildas-lormeau/zip.js?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "TRIPLIT",
+    "description": "Triplit is an open-source database designed for real-time data synchronization between servers and browsers. It offers features like real-time sync, offline support, relational queries, automatic caching, and live updating queries. Triplit's queries are reactive by default, enabling real-time app updates without extra effort.",
+    "url": "https://www.triplit.dev/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "VANNA",
+    "description": "Vanna is an open-source Python framework that allows developers to chat with their SQL database. It uses Retrieval-Augmented Generation (RAG) to convert natural language to SQL queries that answer users' questions.",
+    "url": "https://github.com/vanna-ai/vanna?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DEPENDENCY CRUISER",
+    "description": "Dependency Cruiser is a JavaScript and TypeScript-compatible package that validates your project\u2019s dependencies. It reports violated rules that you have set.",
+    "url": "https://github.com/sverweij/dependency-cruiser?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "QUICKWIT",
+    "description": "Quickwit is an open-source cloud-native search engine designed for observability. It has logs and distributed tracing, is optimized for speed, and operates on cloud storage.",
+    "url": "https://github.com/quickwit-oss/quickwit?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "AUTO WIKI",
+    "description": "Documentation for any public GitHub repository.",
+    "url": "https://wiki.mutable.ai/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "SHOELACE",
+    "description": "Shoelace is a library of web components that works with all frameworks and is fully customizable with CSS.",
+    "url": "https://shoelace.style/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "NEXT AI NEWS",
+    "description": "Next AI News is a full-stack re-creation of Hacker News using Next.js. It uses Next.js 14 features, including App Router and React Server Components.",
+    "url": "https://github.com/rauchg/next-ai-news?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "COPILOT KIT",
+    "description": "CopilotKit offers two main features: CopilotPortal and CopilotTextarea. CopilotPortal enables the creation of in-app AI chatbots that can interact with your app's frontend, backend, and third-party services via plugins. CopilotTextarea is an AI-assisted text generation tool that can be used as a replacement for a regular textarea element, providing autocompletions, AI editing, and content generation from scratch.",
+    "url": "https://github.com/CopilotKit/CopilotKit?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "VUE-CONCURRENCY",
+    "description": "Vue-concurrency provides an abstraction for performing async operations in Vue. It helps reduce boilerplate code and allows new approaches to techniques like throttling, debouncing, and polling.",
+    "url": "https://github.com/MartinMalinda/vue-concurrency?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "NITRO",
+    "description": "Nitro is an open-source engine that enables the creation of web servers that can run anywhere. It offers features like rapid development with Hot Module Replacement (HMR), provider-agnostic deployments with over 15 built-in presets, code-splitting, TypeScript support, universal storage, route caching, and more.",
+    "url": "https://github.com/unjs/nitro?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "MANUAL TO AUTOMATED QA IN JUST 4 MONTHS",
+    "description": "QA Wolf [11] gets web apps to 80% automated end-to-end test coverage in just 4 months. And they include unlimited parallel runs on their infrastructure + 24-hour maintenance and triage at no additional cost.",
+    "url": "https://www.qawolf.com/lp/tldr?utm_campaign=AutomatedQA4months01052024&amp;utm_source=tldrwebdev&amp;utm_medium=newsletter"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT SPECTRUM LIBRARIES",
+    "description": "A collection of libraries and tools aimed at helping developers create adaptive, accessible, and robust user experiences. These libraries include a React implementation of Adobe\u2019s design system (React Spectrum), unstyled React components and hooks (React Aria), and a set of React Hooks for cross-platform state management (React Stately).",
+    "url": "https://github.com/adobe/react-spectrum?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "2024 NEW GRAD POSITIONS",
+    "description": "A comprehensive list of New Graduate software engineer positions across the industry.",
+    "url": "https://github.com/SimplifyJobs/New-Grad-Positions?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "JAN",
+    "description": "Jan is an open-source ChatGPT alternative that runs offline on your computer. It runs on any hardware.",
+    "url": "https://github.com/janhq/jan?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "QUICK-LINT-JS",
+    "description": "Quick-lint-js finds bugs in JavaScript programs, such as syntax errors, using await in a non-async function, and assigning to a const variable.",
+    "url": "https://github.com/quick-lint/quick-lint-js?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "BETTER COMMITS",
+    "description": "Better Commits is a CLI tool that lets developers generate conventional commits through a series of prompts. This allows for better commit messages while inferring ticket and commit type from the branch for consistency.",
+    "url": "https://github.com/Everduin94/better-commits?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "HACKER STARTUP",
+    "description": "Hacker Startup is a list of starter kits and templates for developers to build their next project faster. It includes kits and templates for Next.js, Nuxt, Ruby on Rails, Django, and more.",
+    "url": "https://hackerstartup.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PAGE REPLICA",
+    "description": "Page Replica is a web scraping and caching tool created using Node.js, Express, and Puppeteer. It is designed to prerender web application pages (e.g., React, Angular, Vue) for SEO or other uses. It can scrape single web pages or entire sitemaps with an API, optionally removing JavaScript and caching the HTML. The tool also includes an Nginx configuration for efficiently handling both user and search engine bot traffic.",
+    "url": "https://github.com/html5-ninja/page-replica?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DBCHAOS",
+    "description": "DBChaos allows developers to stress-test their databases with pre-defined queries. It validates slow and expensive queries that may break a database.",
+    "url": "https://github.com/adaptive-scale/dbchaos?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SSH3",
+    "description": "SSH3 is a redesigned version of the SSH protocol that offers faster session establishment, new authentication methods like OAuth 2.0 and OpenID Connect, enhanced security against port scanning attacks, support for UDP port forwarding, and access to modern QUIC protocol features.",
+    "url": "https://github.com/francoismichel/ssh3?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TERMINAL SUNDAY",
+    "description": "Terminal Sunday provides a graphical view of one's lifespan. It shows the amount of Sundays left in one\u2019s life as both a number and a visual in Terminal.",
+    "url": "https://github.com/accessd/terminal-sunday?utm_source=tldrwebdev"
+  },
+  {
+    "type": "4 MINUTE READ",
+    "title": "WHAT'S NEW IN SVELTE: JANUARY 2024",
+    "description": "Svelte has had several significant updates and releases, including the launch of SvelteKit 2.0 and updates to Svelte 5's preview branch. SvelteKit 2.0 introduces various features like \"resolveRoute\" in place of \"resolvePath,\" an improved response.arrayBuffer() during Server-Side Rendering, and other performance enhancements. Additionally, Svelte 5's preview branch brought new features such as the \"$inspect\" rune, enhanced \"$state\" reactivity, and changes in handling bindings and props.",
+    "url": "https://svelte.dev/blog/whats-new-in-svelte-january-2024?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "UNSUCKJS",
+    "description": "A library of open-source projects that allow developers to progressively enhance HTML with lightweight JavaScript libraries.",
+    "url": "https://unsuckjs.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "HOOK",
+    "description": "Hook is an interactive graphical editor for C/C++ runtimes for swift experimentation. It connects to your actively running program, enabling seamless real-time modification of variables and removing the need for constant re-compilation.",
+    "url": "https://github.com/abolinsky/Hook?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "QNM",
+    "description": "Qnm is a CLI utility for querying the node_modules directory. You can use fuzzy search to find specific things and also see which modules are using the most space.",
+    "url": "https://github.com/ranyitz/qnm?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "GEMINI PRO CHAT",
+    "description": "Gemini Pro Chat is a minimal web UI to use Gemini Pro, Google\u2019s new LLM.",
+    "url": "https://github.com/babaohuang/GeminiProChat?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "INPAINT WEB",
+    "description": "An open-source inpainting and image-upscaling tool powered by WebGPU and Wasm on the browser.",
+    "url": "https://github.com/lxfater/inpaint-web?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "NEW FEATURES IN VERCEL DX: CONFORMANCE AND CODE OWNERS",
+    "description": "How do you maintain quality in a growing codebase? Vercel has recently introduced several new features [10] to tackle the problems that larger dev teams are facing \u2014 including automated issue detection, static analysis, responsibility tracking, a collaborative dashboard, and more. Get the full details on the Vercel blog [10]",
+    "url": "https://vercel.com/blog/introducing-conformance?utm_source=tldr&amp;utm_medium=email&amp;utm_campaign=tldr_newsletter_12_22&amp;utm_content=conformance_blog"
+  },
+  {
+    "type": "2 MINUTE READ",
+    "title": "SVELTEKIT 2.0",
+    "description": "SvelteKit is the official framework for creating apps with Svelte. This version release includes many highly anticipated changes. Version 2.0 adds support for Vite 5 along with many other small improvements. SvelteKit 2.0 smooths the way for Svelte 5's release in 2024.",
+    "url": "https://svelte.dev/blog/sveltekit-2?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "CASIBASE",
+    "description": "Casibase is an open-source domain knowledge database powered by ChatGPT, Casbin, and Casdoor. It has a separate architecture for the frontend (React) and backend (Golang). Casibase supports high concurrency, integration with existing systems, and mainstream databases like MySQL and PostgreSQL. It has a web UI for managing the database.",
+    "url": "https://github.com/casibase/casibase?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PENX",
+    "description": "PenX is an open-source note-taking app designed for structure and ease of use. It prioritizes local-first data and user privacy with end-to-end encryption and comes with GitHub-based version control out-of-box.",
+    "url": "https://github.com/penxio/penx?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "TSDOCS",
+    "description": "TSDocs is a platform that allows you to browse type reference documentation for JavaScript packages. It even works for packages that aren\u2019t written in TypeScript or for packages that re-export types from another package.",
+    "url": "https://tsdocs.dev/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "RE:DOM",
+    "description": "RE:DOM is a small UI library built to create DOM elements and keep them in sync with live data. It doesn\u2019t use the virtual DOM and therefore uses less memory than other virtual DOM-based libraries. Developers can use pure JavaScript if needed, eliminating the need for complex templating languages.",
+    "url": "https://github.com/redom/redom/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "KANBAN-PYTHON",
+    "description": "Kanban-python is a terminal Kanban board built in Python with the help of pyscaffold. It comes with features like custom column creation, automatic scanning, and a customizable config file, all created to help you be more productive.",
+    "url": "https://github.com/Zaloog/kanban-python?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "SHIP HIGH QUALITY CODE AT SCALE WITH VERCEL",
+    "description": "As your codebase grows, maintaining quality can become a challenge. Vercel\u2019s Developer Experience Platform\u2019s [11] new features, designed with larger teams in mind, include automated issue detection, static analysis, responsibility tracking, and a collaborative dashboard. Learn more about shipping superior code with Vercel [10]",
+    "url": "https://vercel.com/blog/introducing-conformance?utm_source=tldr&amp;utm_medium=email&amp;utm_campaign=tldr_newsletter_12_19"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "BYTEBASE",
+    "description": "Bytebase provides advanced database DevOps and CI/CD for engineering teams. It provides a unified process to manage, query, secure, and govern all of a team\u2019s databases from one place.",
+    "url": "https://github.com/bytebase/bytebase?utm_source=tldrwebdev"
+  },
+  {
+    "type": "4 MINUTE READ",
+    "title": "BASELINE 2023",
+    "description": "Baseline is a new feature introduced this year that tells you when a specific web platform feature (such as CSS or JS) can be considered safe to use in a web browser. This post highlights various features that became part of Baseline in 2023, including size container queries, new color spaces and functions, compression streams, offscreen canvas, and module preload.",
+    "url": "https://web.dev/blog/baseline2023?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "SVGL",
+    "description": "A library of free-to-use SVG logos.",
+    "url": "https://svgl.app/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "2 MINUTE READ",
+    "title": "ANNOUNCING MILLION.JS 3.0",
+    "description": "Million was a landmark release in the web dev world with a fast, lightweight virtual DOM that makes React up to 70x faster. Version 3 now has a faster build and run time.",
+    "url": "https://million.dev/blog/million-3?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PAGE SPY",
+    "description": "PageSpy is a remote debugging tool for web projects that lets you filter and transform the parameters of native methods when called and convert the results into messages. These messages are displayed with a specific format and UI that is easy to read and consume, making debugging easier and less tedious.",
+    "url": "https://github.com/HuolalaTech/page-spy-web?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LOBE CHAT",
+    "description": "LobeChat is an open-source, high-performance chatbot framework that supports speech synthesis, multimodality, and the extensible Function Call plugin system. It also supports one-click free deployment of your private ChatGPT web application(s).",
+    "url": "https://github.com/lobehub/lobe-chat?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "AUTOANIMATE",
+    "description": "AutoAnimate is an animation tool that seamlessly enhances transitions within your web application without requiring any configuration. It can be integrated into various JavaScript applications, such as Vue, React, Solid, and more.",
+    "url": "https://github.com/formkit/auto-animate?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT RESPONSIVE PAGINATION",
+    "description": "React Responsive Pagination is a React pagination component designed for accessibility and responsiveness. It includes built-in support for Bootstrap 4 and 5, as well as ready-styled themes or the option to use custom CSS. Additionally, it's optimized for tree-shaking to minimize its impact on the bundle size.",
+    "url": "https://github.com/jonelantha/react-responsive-pagination?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MACOSPILOT",
+    "description": "macOSpilot is an AI assistant that can answer your questions about anything, in any application without having to reach for a new window. A keyboard shortcut activates the assistant, to which you say your question aloud. The assistant will give the answer in text and audio as a response.",
+    "url": "https://github.com/elfvingralf/macOSpilot-ai-assistant?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "NAME CHECKER",
+    "description": "An online tool that checks package registries to see if a name is used by another project in various package managers.",
+    "url": "https://namechecker.vercel.app/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TEMPL",
+    "description": "Templ is a way to convert Go into HTML UI.",
+    "url": "https://github.com/a-h/templ?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "BRICKSLLM",
+    "description": "BricksLLM is a cloud-native AI gateway written in Go. It lets developers create OpenAI API keys that have rate limits, cost limits, and TTLs. These API keys can be used in both production and development since they have fine-grained access control.",
+    "url": "https://github.com/bricks-cloud/BricksLLM?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SECUREAI TOOLS",
+    "description": "SecureAI Tools offers private and secure AI tools, such as AI chat functionality, the ability to chat with documents (currently supporting PDFs), and local AI model inference with support for various open-source models. It\u2019s a self-hosted platform that comes with built-in authentication for online access, user management for sharing with family or colleagues, self-hosting optimization for quick setup, and a lightweight web app that uses an SQLite database to avoid the need for a separate container for the database. This allows data to stay local and secure.",
+    "url": "https://github.com/SecureAI-Tools/SecureAI-Tools?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "ROT",
+    "description": "Rot is a command-line tool for managing secrets. It can generate keys and values and rekey secrets with the latest encryption standards. Rot allows for the sharing of secrets with others, provides one-way encryption for production secrets, and allows for secure storage of secrets in Git.",
+    "url": "https://github.com/candiddev/rot?utm_source=tldrwebdev"
+  },
+  {
+    "type": "NOV 30TH",
+    "title": "UPCOMING TOMORROW",
+    "description": "Tired of playing whack-a-mole with bugs? Sentry [12] helps engineering teams lower time to resolution in +100 supported SDKs and frameworks [12]. Whether you\u2019re doing frontend, backend, or mobile - Sentry will help you identify the root cause behind error and performance issues. For a quick intro on how developers use Sentry, join the 15 minute product tour (no sales meeting required) [12]",
+    "url": "https://sentry.io/resources/intro-to-sentry-live-product-tour/?utm_content=newsletter-livedemo-signup&amp;utm_medium=paid-community&amp;utm_source=tldr&amp;utm_campaign=general-fy24q4-sentrylivedemo"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "GRIMOIRE",
+    "description": "Grimoire is a bookmark manager built with Svelte, SvelteKit, and Tailwind CSS. It allows users to store their links, categorize them, and transform saved pages into content snippets. It also has features like easy bookmark addition, personalized user accounts, fuzzy search, metadata fetching, and the ability to add personal notes.",
+    "url": "https://github.com/goniszewski/grimoire?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "BIOME",
+    "description": "Biome can format and lint JavaScript, TypeScript, JSON, and CSS code in a fraction of a second. It requires minimal configuration and displays detailed and contextualized diagnostics. Biome is designed to eventually replace Babel, ESLint, webpack, Prettier, Jest, and more. It has first-class IDE support and top-notch error recovery.",
+    "url": "https://github.com/biomejs/biome?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MULTIPLE WINDOW 3D SCENE USING THREE.JS",
+    "description": "This project showcases a novel technique for constructing and managing a 3D scene within multiple browser windows, utilizing Three.js and localStorage.",
+    "url": "https://github.com/bgstaal/multipleWindow3dScene?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "HOW PAYPAL REDUCED TIME TO FIRST CALL WITH POSTMAN",
+    "description": "APIs are a big deal at PayPal\u2014powering billions of dollars of transactions in 200+ markets. Their public APIs for multiple functions, including billing, invoicing, and subscriptions, are used by external developers worldwide. PayPal needed to find a way to scale collaboration across its diverse teams and the external developer community. \ud83d\ude80 Learn how [7] PayPal achieved this and sped up testing time from hours to minutes using Postman Collections. [5]",
+    "url": "https://www.postman.com/case-studies/paypal/?utm_source=tldr-webdev&amp;utm_medium=email&amp;utm_campaign=q4-newsletter-sponsorships&amp;utm_term=november302023&amp;utm_content=primary-paypal-case-study"
+  },
+  {
+    "type": "9 MINUTE READ",
+    "title": "WHAT\u2019S NEXT BESIDES JAVA/REACT?",
+    "description": "After getting proficient in languages and frameworks, the next step to growing your career is working on soft skills. These soft skills include being a team player, breaking down complex problems, focusing on software quality, developing a business mindset, and enhancing communication skills.",
+    "url": "https://open.substack.com/pub/levelupsoftwareengineering/p/whats-next-after-java-and-react?r=2bjtip&amp;utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "AWS-LITE",
+    "description": "Aws-lite is an extensible Node.js client for interacting with AWS services. It\u2019s faster than the official AWS v3 SDK. Aws-lite features simple semantics, customizability, detailed errors with stack traces and line numbers, built-in pagination, a debug mode, and more.",
+    "url": "https://aws-lite.org/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "JAQ",
+    "description": "jaq is a tool for processing JSON data quickly. It has a fast startup time, compact package size, and a focus on correctness.",
+    "url": "https://github.com/01mf02/jaq?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "HYSP",
+    "description": "Hysp is an independent package manager for Unix and Linux. It can be used just like any other package manager through the command line.",
+    "url": "https://github.com/pwnwriter/hysp?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "PLUG-AND-PLAY MEMBERSHIP SOFTWARE",
+    "description": "Memberful [14] offers reliable and easy-to-use tools to build a membership business [14] from an existing website \u2014 including a full-featured GraphQL API, webhooks, SSO, and much more. Use your existing stack, create any kind of subscription plan, and maintain full ownership of your audience. Start for free! [14]",
+    "url": "https://memberful.com/product/?utm_source=tldr-webdev&amp;utm_campaign=20231204"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "ONSITES.FYI",
+    "description": "A website detailing onsite interview experiences with tech companies. It contains over 500 interview experiences with companies like Apple, Google, and Microsoft.",
+    "url": "https://www.onsites.fyi/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LARAVEL PULSE",
+    "description": "Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application. It allows developers to track down bottlenecks in Laravel (PHP) applications, find the most active users, and more.",
+    "url": "https://github.com/laravel/pulse?utm_source=tldrwebdev"
+  },
+  {
+    "type": "1 MINUTE READ",
+    "title": "DJANGO 5.0 RELEASED",
+    "description": "Django, a Python web framework, has released version 5.0. It includes database-computed default values, an expanded Django ORM, support for database-generated columns, and simplified form field rendering.",
+    "url": "https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LOWSTORAGE",
+    "description": "lowstorage is a zero-dependency pseudo-database for Cloudflare Workers using R2 buckets. It\u2019s designed to make object storage easier and cheaper by utilizing Cloudflare\u2019s \u201cforever free\u201d tier.",
+    "url": "https://github.com/good-lly/lowstorage?utm_source=tldrwebdev"
+  },
+  {
+    "type": "3 MINUTE READ",
+    "title": "NEW IN CHROME 120",
+    "description": "Chrome 120 comes with the new CloseWatcher API, an API for directly listening and responding to close requests. Close requests are typically used to close popups and modals. They are typically the ESC key on desktop platforms and the back gesture or button on Android. Chrome 120 also comes with an easy-to-implement accordion pattern with the details element, permission policy violation reports, and more.",
+    "url": "https://developer.chrome.com/blog/new-in-chrome-120?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DROPBASE",
+    "description": "Dropbase is a platform for building internal web apps such as admin panels and internal engineering tools with Python. It lets you import your existing Python libraries and scripts, select UI components and bind them to data, and use State and Context objects to modify state and context directly with Python. Developers can share apps they create on Dropbase with other users via roles, groups, permissions, and other controls.",
+    "url": "https://github.com/DropbaseHQ/dropbase?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SUPERDUPERDB",
+    "description": "SuperDuperDB is an open-source framework for integrating AI directly with existing databases. The framework helps eliminate complex MLOps pipelines and specialized vector databases by turning existing databases into AI development and deployment environments. It supports LLM chat, streaming inference, scalable model training, vector search, and standard machine learning use cases.",
+    "url": "https://github.com/SuperDuperDB/superduperdb?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MLX",
+    "description": "MLX is an Apple machine learning framework designed for Apple silicon, featuring both Python and C++ APIs. It is compatible with existing tools like NumPy and PyTorch. MLX offers composable function transformations for automatic differentiation and graph optimization, while computations are executed lazily, reducing unnecessary processing.",
+    "url": "https://github.com/ml-explore/mlx?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "WING",
+    "description": "Winglang is a newly introduced open-source programming language tailored for cloud-based development. It empowers developers to create distributed systems that integrate cloud services into the programming model. Wing programs can be run locally with a simulator or deployed to any cloud provider.",
+    "url": "https://github.com/winglang/wing?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "STYLEX",
+    "description": "StyleX is an expressive, deterministic, reliable, and scalable styling system. It was carefully designed to meet the requirements of large application, reusable component libraries, and statically typed codebases. StyleX is fully typed and supports an expressive subset of CSS. It takes the developer experience of CSS-in-JS libraries and uses compile-time tooling to bridge it with the performance and scalability of static CSS.",
+    "url": "https://github.com/facebook/stylex?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LOCO",
+    "description": "Loco is a Rust API and web framework. It is designed as a one-person framework for side projects and startups.",
+    "url": "https://github.com/loco-rs/loco?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "RUBY ON JETS",
+    "description": "Jets is a Ruby serverless framework. It supports writing serverless functions with Ruby in a folder, which are automatically mapped and deployed to matching Lambda functions in AWS.",
+    "url": "https://github.com/rubyonjets/jets?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "\ud83c\udd93 SUPERCHARGE YOUR DATA IMPORT PROCESS WITH FLATFILE",
+    "description": "Elevate your business with a robust data file importer [10] embedded right into your application. Collect customer data\u2014whether it's CSV, XLSX, or more\u2014via embedded GUI, API, webhooks, or workflows. Leverage the power of AI to efficiently transform and match fields [10]to meet your specific format. Trusted by industry leaders like Square, ClickUp, Sage, and countless others. Get started today and revolutionize your data import solution, it's free! [10]",
+    "url": "https://flatfile.com/sign-up/?utm_camid=fL1TF1l5c1M-01358465&amp;utm_source=tldr-web-dev&amp;utm_medium=paid-media&amp;utm_campaign=tldr-web-dev-paid-media-tldr-web-dev-newsletter_q4-nov&amp;utm_content=sign-up&amp;utm_term=developer-nov"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "GPT CRAWLER",
+    "description": "GPT Crawler crawls websites that you specify and creates a summation of the information on the sites, all packed into a file. This file can then be used in tandem with OpenAI to create a custom assistant or a custom GPT.",
+    "url": "https://github.com/BuilderIO/gpt-crawler?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SIRIXDB",
+    "description": "SirixDB is a database system designed for embedding, focusing on temporal and evolutionary data management. It adopts an append-only strategy for storing immutable versions, ensuring the complete history of each resource is preserved. Each commit in SirixDB creates a space-efficient snapshot via structural sharing. The system is built on a log-structured model that avoids data overwriting and implements an innovative versioning technique at the page level.",
+    "url": "https://github.com/sirixdb/sirix?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "BUF",
+    "description": "The Buf CLI is a tool for working with Protocol Buffers. It features the ability to manage Protobuf assets easily. Buf has a linter to enforce good API design choices and structure. It also comes with other tools, including a breaking change director and formatter.",
+    "url": "https://github.com/bufbuild/buf?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DENOKV",
+    "description": "DenoKV is a self-hosted backend for Deno KV, a JavaScript-first key-value database. It features ACID transactions, multiple consistency levels, and JavaScript APIs.",
+    "url": "https://github.com/denoland/denokv?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SCREENSHOT-TO-CODE",
+    "description": "Screenshot-to-code converts a screenshot to HTML and Tailwind CSS. It uses GPT-4 Vision to generate the code and DALL-E 3 to generate similar looking images. You must use your own GPT-4 Vision API key in order to use it.",
+    "url": "https://github.com/abi/screenshot-to-code?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "MAKEREAL",
+    "description": "MakeReal is a canvas where you can draw anything and have GPT-4 turn it into actual working code.",
+    "url": "https://makereal.tldraw.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "5 MINUTE READ",
+    "title": "VITE 5 IS OUT!",
+    "description": "Vite 5 has been released. Vite is the main development environment for new React applications that aren\u2019t based on create-react-app or Next.js. The new release of Vite comes with a host of changes, such as performance improvements.",
+    "url": "https://vitejs.dev/blog/announcing-vite5?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "PLASMO",
+    "description": "The Plasmo Framework is a browser extension SDK. It has first-class TypeScript and React support, comes with various storage and messaging APIs, and handles various pain points of building browser extensions.",
+    "url": "https://github.com/PlasmoHQ/plasmo?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "UNEEBEE",
+    "description": "Uneebee is an open-source platform for creating interactive courses similar to those in Duolingo. It\u2019s built in Elixir and Erlang.",
+    "url": "https://github.com/zoonk/uneebee?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "GSPLAT.JS",
+    "description": "gsplat.js is an easy-to-use, general-purpose, open-source 3D Gaussian Splatting library that provides functionality similar to three.js but for Gaussian Splatting.",
+    "url": "https://github.com/dylanebert/gsplat.js?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "MAKE REAL STARTER",
+    "description": "Make Real is built with tldraw, a React library for creating whiteboards and drawings on an infinite canvas. It allows users to draw a UI mockup and use GPT-4 to turn the image into an HTML file.",
+    "url": "https://github.com/tldraw/make-real-starter?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "RIVER",
+    "description": "River is a robust high-performance job processing system for Go and Postgres. It enqueues jobs transactionally with other database changes, resulting in whole classes of distributed systems problems being avoided. Jobs that are enqueued will be guaranteed only if their corresponding transaction successfully commits. Conversely, if a job\u2019s transaction is rolled back, then that job will be removed. These jobs remain invisible and unavailable for work until the transaction is fully committed.",
+    "url": "https://github.com/riverqueue/river?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT JOYRIDE",
+    "description": "React Joyride is a tool that lets you create guided tours of your React applications. It uses react-floater for styling and positioning and it gives you the capability to use your own components.",
+    "url": "https://github.com/gilbarbara/react-joyride?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "TRACE",
+    "description": "Trace allows developers to create SwiftUI components and screens for mobile apps with natural language. The application allows for the iterative development of iOS apps in the browser, along with the ability to export files to Xcode for further development.",
+    "url": "https://www.trace.zip/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "2 MINUTE READ",
+    "title": "INTRODUCING STABLE VIDEO DIFFUSION",
+    "description": "StabilityAI has released Stable Video Diffusion as open-source. Stable Video Diffusion can create videos using generative AI. This post shows various demos of the model in action.",
+    "url": "https://stability.ai/news/stable-video-diffusion-open-ai-video-model?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "CODESNAPS",
+    "description": "CodeSnaps is a minimalistic UI library of React and Tailwind CSS components. It doesn\u2019t require any package installations and comes with various pre-built components, like blog sections, contact sections, footers, and more.",
+    "url": "https://www.codesnaps.io/browse-components?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT QUIZ COMPONENT",
+    "description": "React-quiz-component is a React component for implementing a quiz. It takes in a JSON-based input and comes with a quiz landing page, input validator, results page, explanations, a scoring system, and more.",
+    "url": "https://github.com/wingkwong/react-quiz-component?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "HTML DOM",
+    "description": "This repository introduces browser DOM APIs and teaches how to use them with small practical examples. It contains live demos, tips, and real use cases.",
+    "url": "https://github.com/phuocng/html-dom?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "CHARDET",
+    "description": "Chardet is a character detection module developed entirely in TypeScript designed to identify encoding based on occurrence analysis. It is versatile and compatible across various environments (Node, Browser, Native) and platforms (Linux, Mac, Windows), without any dependencies or native code/bindings.",
+    "url": "https://github.com/runk/node-chardet?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "ACTIONS/GITHUB-SCRIPT",
+    "description": "This GitHub Action makes it easy to quickly write a script in a GitHub workflow that uses the GitHub API and the workflow\u2019s context. To use this action, a developer needs to provide an input named `script` that contains the body of an asynchronous function call.",
+    "url": "https://github.com/actions/github-script?utm_source=tldrwebdev"
+  },
+  {
+    "type": "11 MINUTE READ",
+    "title": "ANNOUNCING DOCUSAURUS 3.0",
+    "description": "Docusaurus is a popular React-powered documentation site tool by Meta. It\u2019s used by companies like Supabase, Redux, and Temporal for their documentation sites. Version 3 focuses on modernizing the tool with upgrades to MDX v3, React 18, Mermaid v10, and more.",
+    "url": "https://docusaurus.io/blog/releases/3.0?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "GRIST",
+    "description": "Grist combines the flexibility of a spreadsheet with the robustness of a database to organize your data. Its columns work similarly to how they do in databases and cells can be filled with formulas like in spreadsheets.",
+    "url": "https://github.com/gristlabs/grist-core?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LIVEGREP",
+    "description": "Livegrep is a tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.",
+    "url": "https://github.com/livegrep/livegrep?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "SENTRY LAUNCH WEEK",
+    "description": "Calling all developers! Sentry Launch Week [10] is coming. Tune in daily on YouTube for new product announcements and demos, and win credit for our new SWAG store. Got opinions? Share them on Discord to directly to Sentry\u2019s engineering and tech teams. Too busy? Enter your email to get all the demos, blogs, & videos sent directly to you. Go here for details on it all. [10] Sentry Launch Week: Nov 13 to Nov 18, daily 9 am PT.",
+    "url": "https://sentry.io/events/launch-week/?utm_source=tldr&amp;utm_medium=paid-community&amp;utm_campaign=general-fy24q3-launchweek&amp;utm_content=newsletter-launchweek-register"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "NIGHTWIND",
+    "description": "Nightwind is a Tailwind CSS plugin designed to provide a readily customizable and replaceable dark mode feature. It harnesses the established Tailwind color palette alongside your personalized color choices to instantly produce dark mode variations of the Tailwind color classes you employ. For example, when you apply a class like bg-red-600, Nightwind seamlessly transforms it into bg-red-300 within the dark mode setting.",
+    "url": "https://github.com/jjranalli/nightwind?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "TS-CHAN",
+    "description": "The \"ts-chan\" module provides concurrency primitives for TypeScript/JavaScript inspired by Go's channels. It offers installation for Node.js, Deno, and browsers. The module addresses the issue of microtask cycles in JavaScript programs involving concurrent operations. It defines a protocol for implementing channels and includes reference implementations of channels and a Select class.",
+    "url": "https://github.com/joeycumines/ts-chan?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "VUEFORM",
+    "description": "Vueform is an open-source framework for building forms in Vue.js. It standardizes the entire form-building process and gives you the power to customize styling, layout, and functionality while also taking important things like rendering, validation, and processing. Vueform comes with many form elements, like multi-file uploads and a date picker, along with a complete theming and templating system.",
+    "url": "https://github.com/vueform/vueform?utm_source=tldrwebdev"
+  },
+  {
+    "type": "7 MINUTE READ",
+    "title": "ANNOUNCING ANGULAR.DEV",
+    "description": "With the release of Angular v17 approaching, Angular has launched Angular.dev as the new home for Angular development, offering updated tutorials, documentation, and guidance for developers. The site introduces embedded tutorials that enable learning Angular concepts directly in the browser with side-by-side code examples. It has been open-sourced, allowing developers to contribute and learn from the repository.",
+    "url": "https://blog.angular.io/announcing-angular-dev-1e1205fa3039?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACTIME",
+    "description": "Reactime is a Chrome developer tool available as open-source, designed for time travel debugging and performance monitoring in React applications. With Reactime, developers can capture snapshots of their application's state, navigate between and examine these snapshots, and track performance metrics, including component render time and frequency.",
+    "url": "https://github.com/open-source-labs/reactime?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "IMPROVE YOUR SEO FOR FREE WITH AHREFS WEBMASTER TOOLS",
+    "description": "Google Search Console is great in some ways, but limited in others. [11] Ahrefs is now offering a free tool [11] that lets you identify 140+ SEO issues, get an accurate picture of ALL backlinks [11], see every keyword [11] that\u2019s driving traffic to your site \u2014 and how you stack up against competitors. Use Ahrefs Webmaster Tools for FREE on any of your websites [11]",
+    "url": "https://ahrefs.com/webmaster-tools?utm_source=tldr-webdev&amp;utm_campaign=20231108"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "INSHELLISENSE",
+    "description": "inshellisense, made by Microsoft, provides IDE-style autocomplete for shells. It's a terminal native runtime for autocomplete which has support for 600+ command line tools. inshellisense supports Windows, Linux, & macOS.",
+    "url": "https://github.com/microsoft/inshellisense?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "HOTKEY",
+    "description": "Hotkey allows the triggering of actions on target elements when specific keys or key combinations are pressed on the keyboard. These hotkeys can be scoped to form fields and are extracted from a target element's data-hotkey attribute by default. GitHub uses hotkeys extensively to declare shortcuts on its platform.",
+    "url": "https://github.com/github/hotkey?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "REGISTRATION FORM BEST PRACTICES BY FUSIONAUTH",
+    "description": "Signing up for accounts is something we\u2019re all familiar with, and none of us enjoy. As an app developer, you can and should make your registration process simpler. This guide by FusionAuth [13] covers:",
+    "url": "https://fusionauth.io/articles/identity-basics/registration-best-practices?utm_source=tldrwebdev&amp;utm_campaign=bestregistrationpractices"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "SSHX",
+    "description": "Sshx is a web-based collaborative terminal. Users can easily share their terminal by running a single command, manipulate terminal windows on an infinite canvas, observe real-time cursor movements of collaborators, and connect to a distributed mesh of servers for optimal performance. The terminal is end-to-end encrypted, with real-time latency estimates and predictive echo for faster local editing.",
+    "url": "https://github.com/ekzhang/sshx?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "LOSSLESS-JSON",
+    "description": "Lossless-json allows developers to parse JSON without risk of losing numeric information. It works similarly to the native JSON parse and stringify functions except it preserves information of big numbers.",
+    "url": "https://github.com/josdejong/lossless-json?utm_source=tldrwebdev"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "WATCH NOW: _RUBY ON RAILS - THE DOCUMENTARY_",
+    "description": "Love it or hate it, you probably have opinions about Ruby on Rails and its creator, David Heinemeier Hansson. How did Rails come to be, almost 20 years ago? A new documentary [10] by Honeypot [11] tells the full story behind Ruby on Rails through interviews with Jamis Buck, Jeremy Daer, Jason Fried, Tobias L\u00fctke, and... DHH. Watch the full documentary on YouTube [10]",
+    "url": "https://www.youtube.com/watch?v=HDKUEXBF3B4&amp;utm_medium=email&amp;utm_source=tldr_web&amp;utm_campaign=b2c_global_ruby_on_rails_documentary&amp;utm_term=ruby_on_rails"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "NANGO",
+    "description": "Nango simplifies the integration of external APIs with your product. It can create integrations quickly, maintain control over the logic, and access over 100 API templates for authentication, data synchronization, and more. It also provides features like handling rate limits, retries, strong typing, webhooks, monitoring, and an admin dashboard for a comprehensive integration experience.",
+    "url": "https://github.com/nangoHQ/nango?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT-GOOGLE-MAPS",
+    "description": "This is the first \u201cGoogle-sponsored library\u201d for integrating Google Maps\u2019 JavaScript API components in a React app. It comes with a collection of React components for creating maps, markers, and infowindows, along with a set of hooks for using some of the Maps JavaScript API Services and Libraries.",
+    "url": "https://github.com/visgl/react-google-maps"
+  },
+  {
+    "type": "SPONSOR",
+    "title": "DEVINTERSECTION & MICROSOFT AZURE + AI CONFERENCE 2023",
+    "description": "Join us in Orlando, December 5 through 7, [10]\u00a0where you'll hear from Microsoft leaders, including Scott Hanselman and Scott Hunter, on the Azure Development Experience. Learn more about the latest technologies, such as CoPilot and .NET 8, Visual Studio 2022, C#12, .NET Maui, and the latest in AI, Azure, and web technologies. Click here to register today! [10]",
+    "url": "https://www.devintersection.com/#!/"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "TROUBLESHOOTING SCENARIOS",
+    "description": "Sad Servers is a website that provides debugging challenges for engineers.",
+    "url": "https://sadservers.com/scenarios?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "DRAW-A-UI",
+    "description": "draw-a-ui uses tldraw and the GPT-4 Vision API to generate HTML from a drawn wireframe. It takes a PNG image and processes that image using GPT-4 to create an HTML file with Tailwind CSS.",
+    "url": "https://github.com/SawyerHood/draw-a-ui?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "REACT DATASHEET GRID",
+    "description": "React Datasheet Grid is an Excel-like component for creating spreadsheets using React and TypeScript. It supports copy-pasting to and from Excel and Google Sheets, keyboard navigation and shortcuts, hundreds of thousands of rows, customization, and all common gestures from normal sheets, such as dragging a corner to expand a selection.",
+    "url": "https://github.com/nick-keller/react-datasheet-grid?utm_source=tldrwebdev"
+  },
+  {
+    "type": "GITHUB REPO",
+    "title": "\u2318K-SV",
+    "description": "\u2318K-sv is a command menu Svelte component. It can be used as an accessible combobox, where it renders, filters, and sorts items automatically.",
+    "url": "https://github.com/huntabyte/cmdk-sv"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "POWERSYNC",
+    "description": "PowerSync is a service that keeps backend SQL databases in sync with on-device databases embedded in an SDK. It currently supports Postgres and has SDKs for Flutter, React Native, and JavaScript on the web. The SDKs operate on the client side to keep both the client-side and server-side SQL databases in sync. Usually, the client-side database is a SQLite database.",
+    "url": "https://www.powersync.com/?utm_source=tldrwebdev"
+  },
+  {
+    "type": "WEBSITE",
+    "title": "ANIMOTION",
+    "description": "Animotion lets you create CSS animations visually by dragging, resizing, rotating, clipping, and more. It includes a keyframes editor, a collection of ready-to-use animations, and 29 built-in easings.",
+    "url": "https://bit.ly/49YGY5j"
+  }
+]
