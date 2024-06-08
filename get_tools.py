@@ -1,8 +1,10 @@
 import imaplib, email
 import json
+from typing import List
+from models import ToolModel
 from read_email import extract_section_and_links, get_body, get_data_to_search, get_emails, search
 
-def write_to_output(msgs):
+def write_to_output(msgs) -> List[ToolModel]:
   outputs = []
   for i, msg_data in enumerate(msgs[::-1]):
     for response_part in msg_data:
@@ -25,7 +27,7 @@ def write_to_output(msgs):
                 if section.find("\r\n") == -1 and section.find("(") != -1 and section.find(")") != -1:
                   title = section.strip().split("(")[0].strip()
                   type = section.split("(")[1].split(")")[0].strip()
-                  description = sections[i+1].replace("\r\n", " ").strip()
+                  description = sections[i+1].replace("\r\n", " ").replace(r"[\d+\]", "").strip()
                   url_lookup = section.split("[")[1].split("]")[0].strip()
 
                   url = ""
@@ -34,12 +36,12 @@ def write_to_output(msgs):
                     if link[0] == url_lookup:
                       url = link[1]
 
-                  outputs.append({
-                    "type": type,
-                    "title": title,
-                    "description": description,
-                    "url": url
-                  })
+                  outputs.append(ToolModel(
+                    type=type,
+                    title=title,
+                    description=description,
+                    url=url
+                  ))
 
             else:
               print("Section or links not found.")
@@ -48,7 +50,7 @@ def write_to_output(msgs):
             pass
   return outputs
 
-def get_tools():
+def get_tools() -> List[ToolModel]:
   user = 'keveran@gmail.com'
   password = 'cfsb kxre absh hawf'
   imap_url = 'imap.gmail.com'
