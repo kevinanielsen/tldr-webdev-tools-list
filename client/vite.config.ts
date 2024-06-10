@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite'
 import { svelte } from '@sveltejs/vite-plugin-svelte'
+import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
   server: {
@@ -7,7 +8,35 @@ export default defineConfig({
       '/api': 'http://localhost:8000',
     }
   },
-  plugins: [svelte()],
+  plugins: [svelte(), VitePWA({
+    registerType: 'autoUpdate',
+    includeAssets: ['apple-touch-icon-180x180.png', 'maskable-icon-512x512.png, favicon.ico'],
+    manifest: {
+      name: 'TLDR Web Dev Tools',
+      short_name: 'TLDR Web Dev Tools',
+      description: 'A list of the web dev tools featured in TLDR Web Dev news letter.',
+      theme_color: '#ffffff',
+      background_color: '#ffffff',
+      display: 'standalone',
+      icons: [
+        {
+          src: 'pwa-64x64.png',
+          sizes: '64x64',
+          type: 'image/png'
+        },
+        {
+          src: 'pwa-192x192.png',
+          sizes: '192x192',
+          type: 'image/png'
+        },
+        {
+          src: 'pwa-512x512.png',
+          sizes: '512x512',
+          type: 'image/png'
+        }
+      ]
+    }
+  })],
   base: "./", // This will make paths relative
   build: {
     emptyOutDir: true,

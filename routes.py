@@ -11,17 +11,29 @@ from pymongo import UpdateOne
 router = APIRouter()
 
 @router.get("/tools", response_description="List tools", response_model=List[ToolModel])
-def list_tools(type: str | None = None, skip: int = 0, limit: int = -1):
+def list_tools(type: str | None = None, skip: int = 0, limit: int = -1, search: str = ""):
   tools = list(database["tools"].find())
+
+  if search != "":
+    tools_to_return = []
+    for tool in tools:
+      if tool["title"].lower().find(search.lower()) != -1:
+        tools_to_return.append(tool)
+        continue;
+      if tool["description"].lower().find(search.lower()) != -1:
+        tools_to_return.append(tool)
+        continue;
+    tools = tools_to_return
+
   if type:
     if type == "READ":
-      return [tool for tool in tools if "READ" in tool["type"]][skip:skip + limit]
+      tools = [tool for tool in tools if "READ" in tool["type"]]
     elif type == "GITHUB REPO":
-      return [tool for tool in tools if tool["type"] == "GITHUB REPO"][skip:skip + limit]
+      tools = [tool for tool in tools if tool["type"] == "GITHUB REPO"]
     elif type == "WEBSITE":
-      return [tool for tool in tools if tool["type"] == "WEBSITE"][skip:skip + limit]
+      tools = [tool for tool in tools if tool["type"] == "WEBSITE"]
     elif type == "SPONSOR":
-      return [tool for tool in tools if tool["type"] == "SPONSOR"][skip:skip + limit]
+      tools = [tool for tool in tools if tool["type"] == "SPONSOR"]
 
   return tools[skip:skip + limit]
 

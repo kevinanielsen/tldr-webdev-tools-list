@@ -13,7 +13,7 @@
   let loading = false;
   const getTools = async () => {
     const response = await fetch(
-      `/api/tools?skip=${skip}&limit=${limit}&type=${typeFilter?.toUpperCase()}`,
+      `/api/tools?skip=${skip}&limit=${limit}&type=${typeFilter?.toUpperCase()}&search=${searchTerm}`,
     );
     const data = await response.json();
     tools = data;
@@ -27,15 +27,18 @@
 
 <div class="">
   <div class="pb-4 border-b flex justify-between items-center">
-    <label class="flex flex-col">
-      Search
-      <input
-        type="text"
-        placeholder="Search"
-        class="border px-2 py-1"
-        bind:value={searchTerm}
-      />
-    </label>
+    <form class="flex gap-4 items-end" on:submit={(e) => e.preventDefault()}>
+      <label class="flex flex-col">
+        Search
+        <input
+          type="text"
+          placeholder="Search"
+          class="border px-2 py-1"
+          bind:value={searchTerm}
+        />
+      </label>
+      <button class="border px-2 py-1 hover:bg-sky-100" type="submit" on:click={getTools}>Search</button>
+      </form>
     <div class="flex gap-4">
       <label class="flex flex-col">
         Tools per page
@@ -43,7 +46,7 @@
           name="limit"
           id="limit"
           bind:value={limit}
-          on:change={() => getTools()}
+          on:change={getTools}
           class="border px-2 py-1"
         >
           <option disabled>Limit</option>
@@ -59,7 +62,7 @@
           id="type"
           on:change={(e) => {
             typeFilter = e.currentTarget.value;
-            getTools()
+            getTools();
           }}
           class="border px-2 py-1"
         >
@@ -74,9 +77,10 @@
   </div>
   {#if !loading}
     <ul>
-      {#each tools.filter((t) => t.title
-          .toLowerCase()
-          .includes(searchTerm.toLocaleLowerCase())) as tool}
+      {#if tools.length == 0}
+        <li class="text-center text-lg mt-8">No tools found</li>
+      {/if}
+      {#each tools as tool}
         <Tool {tool} />
       {/each}
     </ul>
