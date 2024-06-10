@@ -1,0 +1,12 @@
+client/node_modules
+client/.git
+client/.cache
+.vscode
+.venv
+.git
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+output

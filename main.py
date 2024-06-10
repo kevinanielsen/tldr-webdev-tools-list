@@ -11,7 +11,6 @@ from db import mongodb_client
 app = FastAPI()
 
 # Define our static folder, where will be our svelte build later
-app.mount("/assets", StaticFiles(directory="public/assets"), name="static")
 
 @app.on_event("shutdown")
 def shutdown_db_client():
@@ -19,7 +18,4 @@ def shutdown_db_client():
 
 app.include_router(tool_router, tags=["tools"], prefix="/api")
 
-# Simply the root will return our Svelte build
-@app.get("/", response_class=FileResponse)
-async def main():
-    return "public/index.html"
+app.mount('', StaticFiles(directory="client/dist/", html=True), name="static")

@@ -90,7 +90,7 @@
           }
         }}>{"<"}</button
       >
-      <span>{skip + 1}</span>
+      <span>{skip + 1} - {skip + limit}</span>
       <button
         class="border px-4 py-2 flex justify-center items-center rounded hover:bg-black/5"
         on:click={() => {
