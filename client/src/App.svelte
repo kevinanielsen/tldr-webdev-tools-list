@@ -2,19 +2,19 @@
   import ToolsList from "./components/ToolsList.svelte";
 </script>
 
-<main class="p-4 flex flex-col items-center">
+<main class="p-4 flex flex-col items-center w-full h-full overflow-x-hidden overflow-y-auto">
   <div id="top"></div>
   <div
-    class="w-full h-16 top-0 p-4 border-b flex justify-between items-center fixed z-10 bg-white"
+    class="h-16 top-0 p-4 border-b flex justify-between items-center fixed z-10 bg-white w-full"
   >
-    <h1 class="text-3xl" id="title">TLDR Web Dev Tools</h1>
+    <h1 class="sm:text-3xl text-xl" id="title">TLDR <span class="hidden sm:inline">Web Dev Tools</span></h1>
     <a
       href="https://refer.tldr.tech/1351f191/3"
       target="_blank"
       class="bg-sky-600 text-white px-2 py-1 rounded-full">Check out TLDR</a
     >
   </div>
-  <div class="w-full max-w-4xl xl:border xl:border-y-0 p-8 mt-16">
+  <div class="w-full max-w-4xl xl:border xl:border-y-0 md:p-8 mt-16">
     <ToolsList />
   </div>
   <button

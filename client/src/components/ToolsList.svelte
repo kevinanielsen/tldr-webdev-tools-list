@@ -26,7 +26,7 @@
 </script>
 
 <div class="">
-  <div class="pb-4 border-b flex justify-between items-center">
+  <div class="pb-4 border-b flex flex-wrap md:flex-row justify-between items-center">
     <form class="flex gap-4 items-end" on:submit={(e) => e.preventDefault()}>
       <label class="flex flex-col">
         Search
@@ -37,11 +37,15 @@
           bind:value={searchTerm}
         />
       </label>
-      <button class="border px-2 py-1 hover:bg-sky-100" type="submit" on:click={getTools}>Search</button>
-      </form>
+      <button
+        class="border px-2 py-1 hover:bg-sky-100"
+        type="submit"
+        on:click={getTools}>Search</button
+      >
+    </form>
     <div class="flex gap-4">
-      <label class="flex flex-col">
-        Tools per page
+      <div class="flex flex-col">
+        <label for="limit"> Tools per page </label>
         <select
           name="limit"
           id="limit"
@@ -54,7 +58,7 @@
           <option value={50}>50</option>
           <option value={100}>100</option>
         </select>
-      </label>
+      </div>
       <label class="flex flex-col">
         Tool type
         <select
